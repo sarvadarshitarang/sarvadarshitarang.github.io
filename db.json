@@ -2,8 +2,7 @@
 	"news": {
 		"status": "ok",
 		"totalResults": 12,
-		"articles": [
-				{
+		"articles": [{
 				"source": {
 					"id": "U-MUTT",
 					"name": "Uttaradimutt"
@@ -17,7 +16,7 @@
 				"content": "Chant: Krishna Krishna Hare Hare",
 				"url": ""
 			},
-		{
+			{
 				"source": {
 					"id": "U-MUTT",
 					"name": "Uttaradimutt"
@@ -125,7 +124,7 @@
 				"cardType": "normalCard",
 				"title": "Arghya Pradana to Lord Krishna",
 				"description": "Arghya Pradhana is one of the most important and unique ways to do satkarma in this world. Its only seen in Brahmins and mostly in Madhwas a lot. Krishna Janmastami is followed in this week, please understand Arghya Pradhana and Pooja vidhana by scholars in text - https://www.sumadhwaseva.com/2009/08/krishnastami/ and videos.",
-				"content" : "Video from Sri Vyasanakere Prabhanjanachar",
+				"content": "Video from Sri Vyasanakere Prabhanjanachar",
 				"urlToImage": "/static/img/arghya.jpg",
 				"url": "https://youtu.be/vxpCayUbbUg"
 			},
