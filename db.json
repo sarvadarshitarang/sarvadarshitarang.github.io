@@ -18,63 +18,6 @@
 			},
 			{
 				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
-				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"cardType": "adsCard",
-				"title": "Chanting to be done before Arghya",
-				"description": "\nಕೃಷ್ಣನ  ಪೂಜಾ ಆರಂಭಿಸುವ ಮುನ್ನ ಹೇಳಬೇಕಾದ ಮಂತ್ರ ಯಜ್ಞಾಯ ಯಜ್ಕಪತಯೇ ಯಜ್ಞೇಶ್ವರಾಯ ಯಜ್ಞಸಂಭವಾಯ  ಶ್ರೀ ಗೋವಿಂದಾಯ ನಮೋ ನಮಃ\nBefore starting Pooja\nYagnyaya Yagnya Pataye Yagnyeshwaraya Yagnya Sambhavaya Sri Govindaya Namo Namaha",
-				"urlToImage": "/static/img/arghya1.jpeg",
-				"content": "Chant: Krishna Krishna Hare Hare",
-				"url": "https://www.sumadhwaseva.com/2009/08/krishnastami/"
-			},
-			{
-				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
-				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"cardType": "adsCard",
-				"title": "Chanting to be done during Shayana",
-				"description": "\nಶಯನ ಮಂತ್ರ ವಿಶ್ವಾಯ ವಿಶ್ವಪತಯೇ ವಿಶ್ವೇಶ್ವರಾಯ ವಿಶ್ವಸಂಭವಾಯ ಶ್ರೀ ಗೋವಿಂದಾಯ ನಮೋ ನಮಃ\nShayana Mantra\nVishwaya Vishwapataye Vishweshwaraya Vishwasambhavaya Sri Govindaya Namo Namaha",
-				"urlToImage": "/static/img/arghya1.jpeg",
-				"content": "Chant: Krishna Krishna Hare Hare",
-				"url": "https://www.sumadhwaseva.com/2009/08/krishnastami/"
-			},
-			{
-				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
-				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"cardType": "adsCard",
-				"title": "Next day Parani Mantra(as per mutt timings)",
-				"description": "\nಸರ್ವಾಯ ಸರ್ವಪತಯೇ ಸರ್ವೇಶ್ವರಾಯ ಸರ್ವಸಂಭವಾಯ ಶ್ರೀ ಗೋವಿಂದಾಯ ನಮೋ ನಮಃ\nDuring Parani\nSarvaya Sarvapataye Sarveshwaraya Sarva Sambhavaya Sri Govindaya Namo Namaha",
-				"urlToImage": "/static/img/arghya1.jpeg",
-				"content": "Chant: Krishna Krishna Hare Hare",
-				"url": "https://www.sumadhwaseva.com/2009/08/krishnastami/"
-			},
-			{
-				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
-				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"cardType": "adsCard",
-				"title": "Final Karma Submission Mantra(Very Important)",
-				"description": "\nಸಮಾಪನ ಮಂತ್ರ ಧರ್ಮಾಯ ಧರ್ಮಪತಯೇ ಧರ್ಮೇಶ್ವರಾಯ ಧರ್ಮಸಂಭವಾಯ  ಶ್ರೀ ಗೋವಿಂದಾಯ ನಮೋ ನಮಃ\nSubmission Mantra\nDharmaya Dharma Pataye Dharmeshwaraya Dharma Sambhavaya Sri Govindaya Namo Namaha",
-				"urlToImage": "/static/img/arghya1.jpeg",
-				"content": "Chant: Krishna Krishna Hare Hare",
-				"url": "https://www.sumadhwaseva.com/2009/08/krishnastami/"
-			},
-
-			{
-				"source": {
 					"id": "Sarvadarshi",
 					"name": "Sarvadarshi"
 				},
