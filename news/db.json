@@ -1,0 +1,288 @@
+{
+	"news": {
+		"status": "ok",
+		"totalResults": 12,
+		"articles": [{
+				"source": {
+					"id": "U-MUTT",
+					"name": "Uttaradimutt"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "adsCard",
+				"title": "Panchanga - Uttaradimutt",
+				"description": "August 2021\n Plava Samvatsara\nDakshinayana, Varsha Rutu \nSharavana Maasa, Krishna Paksha\nDay: Good\nCompleted: Sri Krishna Janmastami",
+				"urlToImage": "/static/img/panchang-300821.JPG",
+				"content": "Chant: Krishna Krishna Hare Hare",
+				"url": ""
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Anandvana beats all convent schools",
+				"description": "Good foundation helps to build great buildings. Good foundational education builds not only career of kids but builds Nation and Dharma. If you have not heard of Anandavana Gurukula, then its a great missing information and opportunity of life. Know about this great inspirational education institute that can build best career of your kids. Mid of forest and calm environment, great educationists and visiting faculties can stunn you against any convent school that you feel great today.",
+				"urlToImage": "/static/img/anand.jpg",
+				"content": "Contact: Sri Srinivasacharya Guttal",
+				"url": "https://purnapramati.in/anandavana/english/anandavana-a-dream-campus-for-purnapramati/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Krishnam Vande Jagadgurum",
+				"description": "Krishna never born, but he appeared. Because he is having no birth, he takes various avatara to bless Sajjana and punish Durjana. Janmastami is for us, we should install Lord Krishna in us. We should daily invite him to our mind, soul, feel that he punishing all bad stuffs within us, feel that he is blessng all good things in us.",
+				"urlToImage": "/static/img/krishna.gif",
+				"content": "Watch Video of Pt. Kalhapur Pavamanachar",
+				"url": "https://www.youtube.com/watch?v=MBToT4_pnQo"
+			},
+			{
+				"source": {
+					"id": "U-MUTT",
+					"name": "Uttaradimutt"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Powerful and most beneficial Manyusookta",
+				"description": "saMsRStaM dhanamubhayaM samAkRtamasmabhyaM dattAMvarUNaSca manyUH | bhiyaM dadhAnA hRdayeSu SatravaHparAjitAso apa ni layantAm ||14||saMsRStaM - gathering; dhanaM - wealth; ubhayaM - both; samAkrtaM - collected together; asmabhayaM - for us; dattAM - grant us; varunaH - One who envelopes the three worlds; cha - also; manyuH - yajna (one who performs acts for his devotees); bhiyaM - fear; dadhAnAH - giving; hRudayEShu - inside the heart; shatravaH - enemies; parAjitAsaH - having been conquered; apa ni layantAM - let them go away, cowering in defeat",
+				"urlToImage": "/static/img/manyu.jpeg",
+				"url": "https://madhwabrahmanas.blogspot.com/2009/11/sri-manyu-sukta.html"
+			},
+			{
+				"source": {
+					"id": "U-MUTT",
+					"name": "Uttaradimutt"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Arghya Pradana to Lord Krishna",
+				"description": "Arghya Pradhana is one of the most important and unique ways to do satkarma in this world. Its only seen in Brahmins and mostly in Madhwas a lot. Krishna Janmastami is followed in this week, please understand Arghya Pradhana and Pooja vidhana by scholars in text - https://www.sumadhwaseva.com/2009/08/krishnastami/ and videos.",
+				"content": "Video from Sri Vyasanakere Prabhanjanachar",
+				"urlToImage": "/static/img/arghya.jpg",
+				"url": "https://youtu.be/vxpCayUbbUg"
+			},
+			{
+				"source": {
+					"id": "U-MUTT",
+					"name": "Uttaradimutt"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Sri Krishna Janmastami 2021",
+				"description": "Krishna Janmastami is to be celebrated with much more devotion and dedication for both 29 and 30th August 2021. A clarification is provided by mutt that follow Panchanga of mutt and there is no change to that. More details on next slide.",
+				"urlToImage": "/static/img/krishna.jpeg",
+				"content": "Chant: Hare Krishna Hare Krishna",
+				"url": ""
+			},
+			{
+				"source": {
+					"id": "U-MUTT",
+					"name": "Uttaradimutt"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "adsCard",
+				"title": "Janmastami 2021 clarification",
+				"description": "On 29th Sunday Upavasa and Janmastami Arghya Pooja after moon rise at 11.32PM\nOn 30th Monday Upavasa till 11.45PM\nPray to Lord to end pandemic and start regular satwik life for all Jeevas on the planet. Krishna will clear all our sins and which are direct cause of Diseases and hence provides healthy life.",
+				"urlToImage": "/static/img/krishnastami.jpeg",
+				"content": "Chant: Hare Krishna Hare Krishna",
+				"url": ""
+			},
+			{
+				"source": {
+					"id": "U-MUTT",
+					"name": "Uttaradimutt"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Sourabh Das Sahitya a Success story",
+				"description": "We always think that we can do initiatives and grow to very small extent! but look at live example of something that is path breaking at Sourabh Das Sahitya has achieved. It has record of training 8000+ members, spread in 80 centers and spread across 8 countries!!!, watch video for more. Working at local center under guidance Pt Mukundachar Joshi of Raichur feels its great SATKARMA of life.",
+				"urlToImage": "/static/img/sourabh.jpeg",
+				"content": "Cont:Sri Pramodachar 9916029793",
+				"url": "https://youtu.be/k58npelMtWI"
+			},
+			{
+				"source": {
+					"id": "U-MUTT",
+					"name": "Uttaradimutt"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "adsCard",
+				"title": "Janmastami 2021 clarification",
+				"description": "For Sri Vyasaraj mutt(sosale), Sri Raghavendra Mutt, Sri Udupi Mutts\nOn 30th Monday Upavasa and Janmastami Arghya Pooja after moon rise\nOn 31st Tuesday Parani in the morning\nPray to Lord to end pandemic and start regular satwik life for all Jeevas on the planet. Krishna will clear all our sins and which are direct cause of Diseases and hence provides healthy life.",
+				"urlToImage": "/static/img/vm-krishna.jpeg",
+				"content": "Chant: Hare Krishna Hare Krishna",
+				"url": ""
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao Kulkarni",
+				"cardType": "normalCard",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"title": "Subscribe to Sarvadarshi Taranga for more",
+				"description": "Sarvadarshi Taranga - fully focused to provide you a NON-BREAKING, non-contraversial news that helps to be always connected with Madhwa community and also to specific mutt that you belong to. This also bring lots of information from within such a great community where you can find programs, sales, events, volunteer opportunity, give-back to community, panchanga, special days, aaradhana information, voting for specific topics, kids corners, Tatva/Sidhantha corner to learn and enhance your knowledge",
+				"urlToImage": "/static/img/sarvadarshi.png",
+				"url": "https://youtube.com/madhavabk"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Great contents at RayaraKrupa website",
+				"description": "Really great stuffs at rayarakrupa.org site where you can find good amount of paintings, articles and also useful information. This is done by SHRI ANEL KUMAR, Founder & Director – PUNASCHETANA TRUST, he elaborates on the core vision, mission and purpose of this spiritual initiative, RAYARA KRUPA.",
+				"urlToImage": "/static/img/rayarakrupa.jpg",
+				"content": "Visit site for more details",
+				"url": "https://rayarakrupa.org"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Unique job opportunities for freshers",
+				"description": "As technology is changing and tough to get job in IT, here are few ways that you can crack job opportunities. Skill yourself in DevOps, Cloud, Building scalable products, Automation Testing etc. Where today most candidates fail today - not knowing end to end process of software development, how large software code gets developed and managed within organization. Learn from your seniors and friends. Dont be in silos",
+				"urlToImage": "/static/img/int.jpg",
+				"content": "Learn: How enterprise develop Software",
+				"url": "https://madhavkulkarni.blogspot.com/2006/07/interface-your-self-with-external.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "We are in Dadhi Vrata of Chaturmasa",
+				"description": "From 18 Aug 2021 Dadhi Vrata. Chaturmasa Vrata brings a great control over will power and also self control. Dadhi vrata marks second maasa in this Parva Kala. One should avoid eating Dadhi or Curds or Mosaru. Dont forget to spend time in doing spritual work which is most important. ",
+				"urlToImage": "/static/img/chaturmasa.jpg",
+				"content": "TRY: Practice doing Vrata its possible",
+				"url": "http://madhwamrutha.org/chaturmasya-vrata/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Pavitraropana - Pavitra Dhara wearing",
+				"description": "Pavitraropana is observed by all Madhwas to wear a specially knotted thread around neck on Shravana Shukla Dwadashi. This year its on 19th August 2021. This ritual enables one to get returns of their Devara Pooja performance through out the year. Hence on Dwadashi it should be submitted to GOD and then wear it with special mantras.",
+				"urlToImage": "/static/img/pavitra.jpeg",
+				"content": "PDF by: Dr. B R Venkateshachar",
+				"url": "https://drive.google.com/file/d/1AfgSecvw4Y4fTEbuF88Iwkj32PxBsOMP/view?usp=sharing"
+			},
+			{
+				"source": {
+					"id": "U-MUTT",
+					"name": "Uttaradimutt"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Sri Sudha - spiritual partner for life",
+				"description": "A great book is more than any friends in life, as saying goes you cannot have any better book than the books which gives thoughts of Lord Vishnu and Bhagavatha jnana. Sri Sudha is most effective family member to be successful in life. Get your copy soon - 8762629132",
+				"urlToImage": "/static/img/srisudha.JPG",
+				"content": "Follow Sarvadarshi News - Madhwa Channel",
+				"url": "http://www.srijspn.org/srisudha.html"
+			},
+			{
+				"source": {
+					"id": "Satkarta",
+					"name": "Satkarta"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Skill yourself to get a job",
+				"description": "While many young talent not getting job in community, there are large number of requirements open at big organizations where they are not getting right candidates. The gap is due to skills missing in candidates to perform basic job in a company vs. their school projects. Get trained rightly to get better jobs.",
+				"urlToImage": "/static/img/jobs.jpg",
+				"content": "Reach me for guidance madhavabk@gmail.com",
+				"url": "https://www.uttaradimath.org/pramodatma-go-shala"
+			},
+			{
+				"source": {
+					"id": "Satkarta",
+					"name": "Satkarta"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T06:09:00Z",
+				"cardType": "normalCard",
+				"title": "Rajajinagar see a new Gurukula to give kids basics for free",
+				"description": "Pt. Vadirajachar Deshpande, who graduated from Sri Vedesh Teerth - Sri Madhav teerth Vidyapeeth, Mannur started a small initiative named as Rajajinagar Gurukula to train kids on basics of Madhwa Sampradaya for kids. This has seen almost 25 kids now getting basic mantra, slokas and shistachar trainings. During pandemic situation group used online meeting facilities to run the weekly classes. This is done for FREE and interested parents can talk to Pt. Vadirajachar to join their kids to this.",
+				"content": "Cont Pt.Vadirajachar at 9902155407",
+				"urlToImage": "/static/img/gurukula.jpg",
+				"url": "https://satkarta.blogspot.com/2019/12/satkarta-gurukula-at-rajajinagar-free.html"
+			},
+			{
+				"source": {
+					"id": "U-MUTT",
+					"name": "Uttaradimutt"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Grand Tulasi Vana of Volunteers at Magadi Road",
+				"description": "There is grand Tulasi vana purely run by volunteers and serves tulasi to manay occasions. This vana is brain child of one of the volunteers Sri Sudheendra Katte and supported by many volunteers. Every weekend there are volunteer efforts to pluck tulasi dala and also clean the field, remove weeds and remove seeds etc. Each volunteer feels great service here. Such work need to be well supported by the society more and more.",
+				"urlToImage": "/static/img/tulasivana.jpeg",
+				"url": "https://www.uttaradimath.org/"
+			},
+			{
+				"source": {
+					"id": "Satkarta",
+					"name": "Satkarta"
+				},
+				"author": "Madhavarao Kulkarni",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"cardType": "normalCard",
+				"title": "Get your softskill improved - says Neeraj",
+				"description": "For our continued success and progressive growth many skills needed, at most important one is your soft skills, this is where leaders get differentiated from ordinary people in society. Remember one who goes just small extramile is called winner while whole world forgets second, third place person in race - says Mr. Neeraj",
+				"urlToImage": "/static/img/neeraj.jpg",
+				"content": "Reach out Mr. Neeraj Kumar",
+				"url": "https://www.youtube.com/channel/UCSYRiYDTpybb1NXEQsh2Y9w"
+			},
+			{
+				"author": "Madhavarao Kulkarni",
+				"cardType": "normalCard",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"title": "Donate to Satkarta where transperancy matters",
+				"description": "Satkarta is the one unique program and leading program for crowd funding and giveback thoughts. Being in the field for 5 years now, Satkarta has completed as many as 21 projects to help Madhwas in Healthcare, educational, tough times, skill development and legal areas. Satkarta team is growing and its adding lots of volunteers day-by-day to fullfill need of large community.",
+				"urlToImage": "/static/img/9.jpg",
+				"url": "https://youtube.com/madhavabk"
+			},
+			{
+				"author": "Madhavarao Kulkarni",
+				"cardType": "normalCard",
+				"publishedAt": "2021-08-30T05:00:00Z",
+				"title": "Expose your kids to rituals for their better future",
+				"description": "If we dont give opportunity to our kids to learn from work they either dont learn them or they are eager to learn elsewhere. Organizing events is one of the skills where many adults would love, if you have not given in future may in their school, offices they do it. But if you give them responsibility to organize, evolve think and make one festival at home fully!!! that makes them more learning and responsbile citizen at home itself...",
+				"urlToImage": "/static/img/17.jpg",
+				"url": "https://youtube.com/madhavabk"
+			}
+		]
+	}
+}
