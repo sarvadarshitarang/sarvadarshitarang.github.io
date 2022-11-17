@@ -4,127 +4,632 @@
 		"totalResults": 12,
 		"articles": [{
 				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
 				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
+				"author": "Madhavarao",
+				"publishedAt": "2022-07-31T05:00:00",
+				"unPublishDate": "2022-08-31T05:00:00",
 				"cardType": "adsCard",
-				"title": "Panchanga - Uttaradimutt",
-				"description": "August 2021\n Plava Samvatsara\nDakshinayana, Varsha Rutu \nSharavana Maasa, Krishna Paksha\nDay: Good\nCompleted: Sri Krishna Janmastami",
-				"urlToImage": "/static/img/panchang-300821.JPG",
-				"content": "Chant: Krishna Krishna Hare Hare",
-				"url": ""
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/Sept-2022.webp",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com?76i"
 			},
 			{
 				"source": {
 					"id": "Sarvadarshi",
 					"name": "Sarvadarshi"
 				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"cardType": "normalCard",
-				"title": "Anandvana beats all convent schools",
-				"description": "Good foundation helps to build great buildings. Good foundational education builds not only career of kids but builds Nation and Dharma. If you have not heard of Anandavana Gurukula, then its a great missing information and opportunity of life. Know about this great inspirational education institute that can build best career of your kids. Mid of forest and calm environment, great educationists and visiting faculties can stunn you against any convent school that you feel great today.",
-				"urlToImage": "/static/img/anand.jpg",
-				"content": "Contact: Sri Srinivasacharya Guttal",
-				"url": "https://purnapramati.in/anandavana/english/anandavana-a-dream-campus-for-purnapramati/"
-			},
-			{
-				"source": {
-					"id": "Sarvadarshi",
-					"name": "Sarvadarshi"
-				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"cardType": "normalCard",
-				"title": "Krishnam Vande Jagadgurum",
-				"description": "Krishna never born, but he appeared. Because he is having no birth, he takes various avatara to bless Sajjana and punish Durjana. Janmastami is for us, we should install Lord Krishna in us. We should daily invite him to our mind, soul, feel that he punishing all bad stuffs within us, feel that he is blessng all good things in us.",
-				"urlToImage": "/static/img/krishna.gif",
-				"content": "Watch Video of Pt. Kalhapur Pavamanachar",
-				"url": "https://www.youtube.com/watch?v=MBToT4_pnQo"
-			},
-			{
-				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
-				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"cardType": "normalCard",
-				"title": "Powerful and most beneficial Manyusookta",
-				"description": "saMsRStaM dhanamubhayaM samAkRtamasmabhyaM dattAMvarUNaSca manyUH | bhiyaM dadhAnA hRdayeSu SatravaHparAjitAso apa ni layantAm ||14||saMsRStaM - gathering; dhanaM - wealth; ubhayaM - both; samAkrtaM - collected together; asmabhayaM - for us; dattAM - grant us; varunaH - One who envelopes the three worlds; cha - also; manyuH - yajna (one who performs acts for his devotees); bhiyaM - fear; dadhAnAH - giving; hRudayEShu - inside the heart; shatravaH - enemies; parAjitAsaH - having been conquered; apa ni layantAM - let them go away, cowering in defeat",
-				"urlToImage": "/static/img/manyu.jpeg",
-				"url": "https://madhwabrahmanas.blogspot.com/2009/11/sri-manyu-sukta.html"
-			},
-			{
-				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
-				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"cardType": "normalCard",
-				"title": "Arghya Pradana to Lord Krishna",
-				"description": "Arghya Pradhana is one of the most important and unique ways to do satkarma in this world. Its only seen in Brahmins and mostly in Madhwas a lot. Krishna Janmastami is followed in this week, please understand Arghya Pradhana and Pooja vidhana by scholars in text - https://www.sumadhwaseva.com/2009/08/krishnastami/ and videos.",
-				"content": "Video from Sri Vyasanakere Prabhanjanachar",
-				"urlToImage": "/static/img/arghya.jpg",
-				"url": "https://youtu.be/vxpCayUbbUg"
-			},
-			{
-				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
-				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"cardType": "normalCard",
-				"title": "Sri Krishna Janmastami 2021",
-				"description": "Krishna Janmastami is to be celebrated with much more devotion and dedication for both 29 and 30th August 2021. A clarification is provided by mutt that follow Panchanga of mutt and there is no change to that. More details on next slide.",
-				"urlToImage": "/static/img/krishna.jpeg",
-				"content": "Chant: Hare Krishna Hare Krishna",
-				"url": ""
-			},
-			{
-				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
-				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
+				"author": "Madhavarao",
+				"publishedAt": "2022-01-01T05:00:00",
+				"unPublishDate": "2022-12-31T05:00:00",
 				"cardType": "adsCard",
-				"title": "Janmastami 2021 clarification",
-				"description": "On 29th Sunday Upavasa and Janmastami Arghya Pooja after moon rise at 11.32PM\nOn 30th Monday Upavasa till 11.45PM\nPray to Lord to end pandemic and start regular satwik life for all Jeevas on the planet. Krishna will clear all our sins and which are direct cause of Diseases and hence provides healthy life.",
-				"urlToImage": "/static/img/krishnastami.jpeg",
-				"content": "Chant: Hare Krishna Hare Krishna",
-				"url": ""
+				"title": "Panchang",
+				"description": "",
+				"urlToImage": "/static/img/2-1.webp",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com?76i"
 			},
 			{
 				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
 				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
+				"author": "Madhavarao",
+				"publishedAt": "2022-11-10T05:00:00",
+				"unPublishDate": "2022-11-15T05:00:00",
 				"cardType": "normalCard",
-				"title": "Sourabh Das Sahitya a Success story",
-				"description": "We always think that we can do initiatives and grow to very small extent! but look at live example of something that is path breaking at Sourabh Das Sahitya has achieved. It has record of training 8000+ members, spread in 80 centers and spread across 8 countries!!!, watch video for more. Working at local center under guidance Pt Mukundachar Joshi of Raichur feels its great SATKARMA of life.",
-				"urlToImage": "/static/img/sourabh.jpeg",
-				"content": "Cont:Sri Pramodachar 9916029793",
-				"url": "https://youtu.be/k58npelMtWI"
+				"title": "An order to pause Mudra Dharana in Datti Temple premises",
+				"description": "There is very old saying - 'dont invest all at one place'. As they would become bottleneck in future. Most of the temples grew rapidly & came under Govt Radar as great source of money. Today that growth has become bottleneck, though temple money no more useful to any social problems of community as resourcey, rather benefitting others, and now rituals also have becomes target. Big Madhwa centers like Udupi, Mantralaya etc are great targets. Take your action now...",
+				"urlToImage": "https://madhwavilasa.files.wordpress.com/2018/08/fb_img_1532366335735.jpg",
+				"content": "",
+				"url": "https://www.change.org/p/chief-minister-of-karnataka-tapta-mudradharane-should-be-kept-out-of-proposed-anti-superstition-bill-of-karnataka-govt"
 			},
 			{
 				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
 				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
+				"author": "Madhavarao",
+				"publishedAt": "2022-11-01T05:00:00",
+				"unPublishDate": "2022-11-10T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Sadhakaru - Sri Anant Kulkarni",
+				"description": "Bagalkot been a hub for large number of madhwa families decades ago and today as well. Banashankari of Badami is one of the most visited places for madhwas in Bagalkot as family deity. The Dasa Sahitya and Vyasa Sahitya both are part of this soil since several centuries. To justify this one can remember Sri Prasanna Venkata Dasaru who is most popular from this region. Haridasa sahitya work has taken a lots of contributions from Bagalkot region to enrich Vishnu Tatwa among common people. Anant Kulkarni started singing at 1977 itself, and later secured B.A. in Sangeeth Shastra. Later he was also honored as A grade singer in Akashvani, Prayag Sangeeth Association provided 'Sangeeth Marthand' titles. His popularity begin from Uttara Karnataka as the tones he used for popular songs were born out of the Uttara Karnataka style. Read more...",
+				"urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAJ27_0YxT1KW6AaMIhv_uoI-BctDT7eNq4QUM_2MUZHV-Mz7Xn2b-OGaoKIpkJImgvOVQ9Lk8gjuxPXng-jd-fct9bNpw8_XhPFbuYA9lxEBQy8E8JJg9L9Tthyq9Bko1-cZYD8f6aK464YNtRiI7asLAnTQAgTQzL_CHf0YQTmgSRUjgIbzCw6ZU/w310-h320/anant_kulkarni.jpg",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/10/sarvadarshi-sadhakaru-sri-anant.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-11-02T05:00:00",
+				"unPublishDate": "2022-11-10T05:00:00",
 				"cardType": "adsCard",
-				"title": "Janmastami 2021 clarification",
-				"description": "For Sri Vyasaraj mutt(sosale), Sri Raghavendra Mutt, Sri Udupi Mutts\nOn 30th Monday Upavasa and Janmastami Arghya Pooja after moon rise\nOn 31st Tuesday Parani in the morning\nPray to Lord to end pandemic and start regular satwik life for all Jeevas on the planet. Krishna will clear all our sins and which are direct cause of Diseases and hence provides healthy life.",
-				"urlToImage": "/static/img/vm-krishna.jpeg",
-				"content": "Chant: Hare Krishna Hare Krishna",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/puzzle2.jpg",
+				"content": "",
+				"url": "https://crosswordlabs.com/embed/madhwa-tatwa-2"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-11-01T05:00:00",
+				"unPublishDate": "2022-11-10T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/puzzle2.JPG",
+				"content": "",
+				"url": "https://crosswordlabs.com/embed/madhwa-tatwa-2"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-10-28T05:00:00",
+				"unPublishDate": "2022-10-31T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/vedesh_teerth.jpg",
+				"content": "",
+				"url": "https://mannurcharitre.blogspot.com/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-10-28T05:00:00",
+				"unPublishDate": "2022-10-31T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/quotes110.webp",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-10-19T05:00:00",
+				"unPublishDate": "2022-10-22T05:00:00",
+				"cardType": "normalCard",
+				"title": "Certification course on Trikala Sandhyavandna(Coimbatore)",
+				"description": "Registration Last date: 30-Oct-2022. Trikala Sandhyavandna is the requirement of any Dwija/Upaneeta men. In today busy life trikala sandhyavandana has more advanced benefits than before. As per medical science one need to relax or break from contineous work every 8 hours daily. Hence, even most of the office working hours also is around 8-9 hours. Here is an effort from Coimbatore team in teaching Sandhyavandna along with its meaning and also provide you certifications. Register here...",
+				"urlToImage": "/static/img/sandhyavandna.JPG",
+				"content": "",
+				"url": "https://docs.google.com/forms/d/e/1FAIpQLScGB2L2eUD1jO-qwnhpLJgATBmRSMmHPHpOlu2eWdiHH7aoMw/viewform"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-10-12T05:00:00",
+				"unPublishDate": "2022-10-22T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Madhwa Sadhakaru - Bheemacharya Vadavi(Maaruteesh Vitthal dasa)",
+				"description": "One should also know the Guru of such great people. Their Guru was Sri Subbaray Dasa. Yatha Guru tatha Shishya as the saying goes Sri Bheemacharya got interest in Hari-Dasa sahitya(the sahitya that brings wealth of Veda Jnana to common man in Kannada Language). Hence, they put effort in study, analysis and right interpretations of hari-dasa sahitya too. This work gave outcomes like Kanakadas Charitra, Giriyammana charitra, Sri Raghavendra Kathamruta, Sripadaraj Charitra kavyas. With such a devotion and knowledge that they got through Hari-Dasa sahitya they even got inspired to become a Dasa(one who always worships lord Vishnu is called as Daasa, spreading true knowledge of Vishnu is main work of Dasaru). Read more...",
+				"urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcYkOMpL-CFC38Nt_Tt0PrL4MSn6vCnJEHv_Fg0axSekgv_M7UuRDeE-NTDXanZHw10eiY-_PbBi4oa1gcw2XyfOG8wPGBitj0hNiGDb8isoNBUM0T77IlekmD2eCPaikHUlvw2TQqfqmfXPSvA1IAqo2OADIRnC01GFwFnxhK8BOXAVK-DvCXs9Yl/w275-h400/WhatsApp%20Image%202022-09-15%20at%209.35.51%20PM.jpeg",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/10/sarvadarshi-madhwa-sadhakaru-sri.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-10-12T05:00:00",
+				"unPublishDate": "2022-10-22T05:00:00",
+				"cardType": "normalCard",
+				"title": "Madhwa youth online Madhwa Talent show launches 1st show",
+				"description": "We often like youth come forward for Dharma, learn Madhwa tatwas. But, we lack in providing platforms in great events like Aaradhana, Festivals, Utsavas to show case their knowledge, share knowledge or at least engage them to learn Madhwa Tatwas. While large number of volunteers offer their full day services but only restricted to serving food or managing queue or lifting heavy items. Rather volunteers need to focus on engaging youth, kids, girls to have large number of interactive sessions to learn Madhwa tatwas. Madhwa Youth with Satkarta, Sarvadarshi is launching facebook participation platform on 15th October. Read more...",
+				"urlToImage": "https://scontent.fblr22-1.fna.fbcdn.net/v/t39.30808-6/311587395_195860896159208_3783921565387903089_n.jpg?stp=dst-jpg_p720x720&_nc_cat=102&ccb=1-7&_nc_sid=8631f5&_nc_ohc=FTs5wBWjjK0AX8Up7s1&tn=2AWL63fNteCu48N5&_nc_ht=scontent.fblr22-1.fna&oh=00_AT_8aXPaxh0EBpxiwNRY5xbB9iBmcmmHC-cOqDppEPj5FA&oe=634AEF6C",
+				"content": "",
+				"url": "https://fb.me/e/6IfEJuzL1"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Anil Harihar",
+				"publishedAt": "2022-10-06T05:00:00",
+				"unPublishDate": "2022-10-20T05:00:00",
+				"cardType": "normalCard",
+				"title": "The most useful madhwa tatwas that is needed for common human being today.",
+				"description": "Please watch the video to understand the great thoughts of Madhwa Tatwas. The effort is been made by a small kid of 11 years old. The beauty of madhwa tatwa is that, it is applicable to all times of the universe, to all human beings and its most nature friendly thought process. Apart from that Madhwa tatwa is Hari Tatwa and can take us to Moksha sadhana even in this kaliyuga. Please watch the video...",
+				"urlToImage": "/static/img/anilharihar.png",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=7h5bmOlK1Fw"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Anil Harihar",
+				"publishedAt": "2022-10-06T05:00:00",
+				"unPublishDate": "2022-10-20T05:00:00",
+				"cardType": "normalCard",
+				"title": "Our todays eating habits are earning lots of sins, want to know how?",
+				"description": "Food wastage is a sin because! It will create demand and supply issues. A city needs 1000 kilogram vegetables daily means 1000 kilogram vegetables need to be grown daily. If the land does not help in such growth the farmer would go for hybrid or fast-growing crops. Today our increased demand for milk has made cows be injected with hormones to yield more milk. We moved out of Indian cows and used the milk of jersey cows. Please watch the video...",
+				"urlToImage": "/static/img/mq2.jpg",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=PTtZZHa_Vds"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-10-03T05:00:00",
+				"unPublishDate": "2022-10-10T05:00:00",
+				"cardType": "normalCard",
+				"title": "Understand hidden leadership from front results",
+				"description": "Editor Special: Leadership is something that is not visible directly. But, its correct or wrong applications are always visible through end results of the organization. One can easily make out, is the leadership strong or weak by just observing the work style of end worker. This is how usually customer satisfaction and disatisfaction comes. While management waste time in root causing customer feedbacks by questioning the support engineer. But leadership has made this result which is easy to understand... watch more...",
+				"urlToImage": "/static/img/leadership.JPG",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=NtNbkdMj0kc"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-10-03T05:00:00",
+				"unPublishDate": "2022-10-10T05:00:00",
+				"cardType": "adsCard",
+				"title": "What is aaradhana of GOD?",
+				"description": "Submitting what is given by GOD ",
+				"urlToImage": "/static/img/quotes109.webp",
+				"content": "",
+				"url": "https://youtu.be/9dc1NdkFMOs"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-09-29T05:00:00",
+				"unPublishDate": "2022-10-10T05:00:00",
+				"cardType": "normalCard",
+				"title": "Why Madhwa Samaja looks the way how it is today?",
+				"description": "Editor Special: In the past, Brahmins had many acres of farms lands, they were doing dharma sadhana, leading peaceful life with earning comes from farms. They were not in hurry to win over others, rather they could spend more time on sadhana. The land reformation act grabbed most of the lands from Brahmins. This made many brahims poor. Later invaders attacks made brahmins to loose remaining lands and assets and thus most brahmins becoming poor and poor. These instances lead them into fear of life. Distracted them away from sadhana marg. Made them to chase assets and property.",
+				"urlToImage": "/static/img/history_analysis.png",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=RX3YecM_fNQ"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-09-12T05:00:00",
+				"unPublishDate": "2022-09-20T05:00:00",
+				"cardType": "normalCard",
+				"title": "Kendriya Vidyalaya Recruitment 2022 Vacancy Details",
+				"description": "Kendriya Vidyalaya Sangathan (KVS) is likely to publish the notification for the recruitment of Teaching, and Non-Teaching Posts in the various KV Schools across India soon. Interested and eligible candidates can apply online for the vacancies via the website kvsangathan.nic.in after the notification is released. Read more from the More button...",
+				"urlToImage": "https://cdn.kalingatv.com/wp-content/uploads/2022/03/Kendriya-Vidyalaya-Recruitment.jpg",
+				"content": "",
+				"url": "https://kalingatv.com/recruitment/kendriya-vidyalaya-recruitment-2022-for-16472-teaching-and-non-teaching-posts-notification-soon/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-09-07T05:00:00",
+				"unPublishDate": "2022-09-15T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/medical_issue.jpeg",
+				"content": "",
+				"url": "https://www.moneycontrol.com/news/trends/medicines-take-lions-share-of-personal-healthcare-spending-in-india-study-finds-8601911.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-09-08T05:00:00",
+				"unPublishDate": "2022-09-15T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/choose_peer_group.jpeg",
+				"content": "",
+				"url": "https://www.liveyourtruestory.com/6-valuable-pieces-of-advice-for-dealing-with-difficult-people/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-09-29T05:00:00",
+				"unPublishDate": "2022-10-05T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi health bytes - 6 Interesting Makhana Benefits",
+				"description": "Though its not used much in madhwa families as food item but here are some benefits it provides to the body. Makhana is a type of seed derived from the Euryale ferox plant. They are also sometimes referred to as fox nuts or lotus seeds. Makhanas are widely cultivated throughout Asia and often used in traditional forms of medicine to treat various conditions (1Trusted Source). They are also sometimes roasted and enjoyed as a savory snack or added to curries, side dishes, or desserts.",
+				"urlToImage": "https://www.eatnummy.com/wp-content/uploads/2020/05/Makhana-Benefits-Nummy-Makhana.png",
+				"content": "",
+				"url": "https://www.healthline.com/nutrition/makhana-benefits"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-09-05T05:00:00",
+				"unPublishDate": "2022-09-15T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/quotes108.webp",
+				"content": "",
+				"url": "https://www.ef.com/wwen/blog/efacademyblog/3-ways-boost-childs-academic-performance/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-24T05:00:00",
+				"unPublishDate": "2022-08-26T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/satyadharma.webp",
+				"content": "",
+				"url": "https://www.uttaradimath.org/parampara/sri-satyadharma-tirtha"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-01-01T05:00:00",
+				"unPublishDate": "2022-12-31T05:00:00",
+				"cardType": "normalCard",
+				"title": "Here are few great Education Scholarship schemes for you!",
+				"description": "Rs 10000 to 60000 per year as depending on the course and duration. Last date to apply is December 31, 2022. Kindly spread the positive news in your circle and make some one study with the help of scholarship. Also, you need to guide students of madhwa community to go for scholarship, govt schemes and also educate them to be dharmik to get scholarships from various matha and associations like Satkarta available for madhwas only. Read more...",
+				"urlToImage": "https://i0.wp.com/www.vidyanidhi.org.in/wp-content/uploads/2020/07/Vidyadhan-Scholarship-Application-form-Apply-online.jpg?w=1024&ssl=1",
+				"content": "",
+				"url": "https://www.vidyanidhi.org.in/scholarships/vidyadhan-scholarship-apply-online/#r"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-23T05:00:00",
+				"unPublishDate": "2022-08-25T05:00:00",
+				"cardType": "adsCard",
+				"title": "quotes",
+				"description": "",
+				"urlToImage": "/static/img/quotes106.webp",
+				"content": "",
+				"url": "https://healthy.kaiserpermanente.org/health-wellness/healtharticle.7-benefits-of-keeping-a-journal"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-25T05:00:00",
+				"unPublishDate": "2022-08-30T05:00:00",
+				"cardType": "adsCard",
+				"title": "quotes",
+				"description": "",
+				"urlToImage": "/static/img/quotes107.webp",
+				"content": "",
+				"url": "https://healthy.kaiserpermanente.org/health-wellness/mental-health/tools-resources/meditation/find-your-reason"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-18T05:00:00",
+				"unPublishDate": "2022-08-25T05:00:00",
+				"cardType": "normalCard",
+				"title": "Adopt Go-shala through Government Portal on this Krishna Janmastami.",
+				"description": "Krishna was so well known as Gopala. The one who does Palana(protection & maintenance) of Go(cow) is Gopala. At this Krishna Janmastami why dont we do something unique to pray to Lord Krishna? Yes, Govt has created an opportunity to adopt a Cow/Go-shala through your possible donation capacity. The government portal provides information on all registered Go-shalas across Karnataka and India. Here you can choose the Go-shala that is close to your heart and donate. Manoratha Goshala of Badami is close to the people's hearts because they are protecting 57+ cows which should have gone to Kasayi Khana if not attended.",
+				"urlToImage": "/static/img/goshala.JPG",
+				"content": "",
+				"url": "https://punyakoti.karahvs.in/goshala.jsp?goshalaid=309"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-18T05:00:00",
+				"unPublishDate": "2022-08-25T05:00:00",
+				"cardType": "normalCard",
+				"title": "What is speciality of Manoratha Goshala of Badami to Adopt Govt Portal on this Krishna Janmastami?",
+				"description": "Govt has created an opportunity to adopt a Cow/Go-shala through your possible donation capacity. Here you can choose the Go-shala that is close to your heart and donate. Manoratha Goshala of Badami is close to the people's hearts because they are protecting 57+ cows which should have gone to Kasayi Khana if not attended. The owners of this Go-shala are Gosevakaru themselves(Go means Jnana and Go means Cow) so they are Sudha Pandits and taking care of cows. Make this Janmastami special for your family by doing such great donations but cutting other expenses.",
+				"urlToImage": "/static/img/goshala.JPG",
+				"content": "",
+				"url": "https://punyakoti.karahvs.in/goshala.jsp?goshalaid=309"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-16T05:00:00",
+				"unPublishDate": "2022-08-25T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Madhwa Sadhakaru - Smt Godhutai Kulkarni",
+				"description": "But, this is where Godhutai story comes to the notice. While family and kids grew further its Godhutai who kept the flag hoisted on 15th August 1947 safe and in same sanctity. During those days even a family lady having great responsibilities of home making and educating kids and taking care of family, she was still focused on keeping flag safe and also reminding family to hoist it every year. Though she was not literate but having great Dharma and Desha Bhakti is still an inspiration to the young women of today. She had 12 kids and she took care of Flag as if its her 13th kid!!!",
+				"urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGH9wCu3zqPs19fsvtPrDMD2PZODqTqthg42rKwIW-F1wOOF3PjuTQE3X5YO4fbQpirWqybs5bCnqjEbw3z8aXawpL2eLozVVqO91XoWSrZmVTR2Dbt5ErE-QEXzt4gQK_2p4aoZw9pWrrlOXTQzhrcEys9jS9nKDg-D6qUID7qRGIYUcIj7cgjP1-/w328-h320/godhutai.JPG",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/05/sarvadarshi-tarang-mahayogi-sri-pt.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-01T05:00:00",
+				"unPublishDate": "2022-08-31T05:00:00",
+				"cardType": "normalCard",
+				"title": "A potentially rocky world, larger than Earth",
+				"description": "Ross 508 b is a super Earth exoplanet that orbits an M-type star. Its mass is 4 Earths, it takes 10.8 days to complete one orbit of its star, and is 0.05366 AU from its star. Its discovery was announced in 2022. Its orbit takes it in, and out, of its star's habitable zone. Such a planet may be able to retain water on its surface, and will be an important target for future observations to study the possibility of life around low-mass stars like the M dwarf it orbits. Red dwarfs, which constitute three-quarters of the stars in our galaxy and exist in large numbers in the vicinity of our solar system, are excellent targets to find exoplanets in our neighborhood.",
+				"urlToImage": "https://exoplanets.nasa.gov/assets/content/planets/superearth.jpg",
+				"content": "",
+				"url": "https://exoplanets.nasa.gov/eyes-on-exoplanets/#/planet/Ross_508_b/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-11T05:00:00",
+				"unPublishDate": "2022-08-30T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/women.webp",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=-xSVAeK2aWk"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-11T05:00:00",
+				"unPublishDate": "2022-08-30T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/dharma.webp",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=-xSVAeK2aWk"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-09T05:00:00",
+				"unPublishDate": "2022-08-19T05:00:00",
+				"cardType": "normalCard",
+				"title": "What happened to carpooling business (QuickRide) during Covid-19?",
+				"description": "Innovation, building business and sustaining it and then making profit are parts of Business lifestyle. All business run under lots of external factors to be successful or failure or pause for some time. Carpooling was best concept for cities like Bangalore, Mumbai, Delhi, Hyderabad, Chennai where people book bike, car through trusted process and reach destination with best price. The rides are not costly to partners and also becomes cheap to owner of the car. Read more details from Deccan Herald article about situation of such wonderful concept during Covid-19 impacts...",
+				"urlToImage": "https://quickride.in/images/employees-image.png",
+				"content": "",
+				"url": "https://www.deccanherald.com/metrolife/metrolife-your-bond-with-bengaluru/carpooling-ride-sharingwitness-an-all-time-low-923597.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-01T05:00:00",
+				"unPublishDate": "2022-08-31T05:00:00",
+				"cardType": "normalCard",
+				"title": "Do you know health benefits of Pooja items?",
+				"description": "Young generation is confused with incubation of negative thoughts about culture and dharma. While smart young asks 100 of questions when it comes to following any dharmik stuffs but do not question things like 'why cake to be cut on birthday'? 'why parents need to wear white dress during birthday' etc. But that is not the discussion here. We have wonderful research data and findings about health benefits of each and every item that we use during pooja. The special ones are Shankha, Shaligram, Sudharshana and copper items. Let us see what are benefits of Shankha here to begin, watch the video...",
+				"urlToImage": "https://vedicfeed.com/wp-content/uploads/2019/12/Blowing_Conch-right-handed.jpg",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=faII4SpEM6U"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-07-27T05:00:00",
+				"unPublishDate": "2022-08-05T05:00:00",
+				"cardType": "normalCard",
+				"title": "The meaningless marriages!",
+				"description": "Only photographer, cook & barber person who comes for makeup are most respected people in the marriage today. There is no respect or place for elders, ancestors, pandits who make the marriages. People open up big mouth to ask question 'Hey how much pandit will take money?' Photo shoot, having makeup persons & barbers, junk foods introduction, dance, singing, firing crackers, even spending of those 2-3 days of marriage is like film style copy. Fully adharmik & costly - building social peer pressure.",
+				"urlToImage": "https://i.ytimg.com/vi/1QNxVbE6Bvc/maxresdefault.jpg",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=oQUNFVOmhLs"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-01T05:00:00",
+				"unPublishDate": "2022-08-15T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Life Bytes(Video): The story of trust in GOD",
+				"description": "God blessed Ajaamila, Gora Kumbara, Gopalakas - he blesses and protects even dumb animals as they all are true believers of GOD. We human beings are becoming too smart and we dont believe anyone and even GOD. That is the most powerful background of all our miserable situations. We feel that unless i have great job i cannot survive happily while lots of low income people are more happy that rich. We procure lots of medicines thinking what if tomorrow we get disease? But poor believes as long as GOD keeps me up and live i will survive and if he calls will leave this body - he is the one who really is Jnani.",
+				"urlToImage": "/static/img/sarvadarshi.JPG",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=YGgUwoaKUyc"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-01T05:00:00",
+				"unPublishDate": "2022-08-15T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Bytes(Video): These questions can make your daughter's life",
+				"description": "The role of parents is been impacted by social status-based lifestyle. Parents are not happy if their kids are educated or working to their strengths and being true children to them. Rather they want their children to be like everyone other in society. This has increased the human race towards material life. Here is how today's mothers talk to their daughters. Watch our video by clicking More button...",
+				"urlToImage": "/static/img/sarvadarshibytes.png",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=uamkC69z_xQ"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-07-25T05:00:00",
+				"unPublishDate": "2022-08-06T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Life Bytes: Indian Startup Layoff 11,360+ Employees Laid Off In 2022",
+				"description": "Most of our Madhwa marriages are now dependent on few things like Salary, Good company name, groom working only in metro cieies only etc. Specially social pressure creating the marriage to happen on these grounds than finding good/capable life partner. The universal truth is - nice things come with a cost and nothing is free in this world. The high paid jobs are often lead to streesed work life, non-growing families(not getting blessed with kids) & risk of layoff. Parents need to care about the job stability, fair enough pay and not too sky hyped asks. Firstly, being a grounded life style to enjoy life thank going behind social peer pressure. Read more in app...",
+				"urlToImage": "https://inc42.com/wp-content/uploads/2022/07/Tracker_fs-01.jpg",
+				"content": "",
+				"url": "https://inc42.com/features/indian-startup-layoffs-tracker/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-07-22T05:00:00",
+				"unPublishDate": "2022-07-28T05:00:00",
+				"cardType": "normalCard",
+				"title": "What is self transformation?",
+				"description": "You might wonder what exactly is meant by self-refinement, self-transformation and self-development and how to practice them? To achieve this one will have to adopt four disciplines. These are Self-restraint (sanyam), Self-study (swadhayaya), Spiritual practice (Upasana/Sadhana) and Social service(seva). These are like four essential steps in the upliftment of human life, four cornerstones of the edifice of an accomplished life and four resources of human ascent.",
+				"urlToImage": "https://wellcomeomcenter.b-cdn.net/wp-content/uploads/2017/08/Butterflies-Tranformations.jpg",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=mpnRAG5UKzg"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-07-22T05:00:00",
+				"unPublishDate": "2022-07-28T05:00:00",
+				"cardType": "normalCard",
+				"title": "Why do we get big diseases?",
+				"description": "The past karmas will come as diseases as per shastras. 'पूर्वजन्म कृतं पापं व्याधि रूपेण पीड़ति' and as per English dictionary definition diseases are 'a disorder of structure or function in a human, animal, or plant, especially one that has a known cause and a distinctive group of symptoms, signs, or anatomical changes'. In science/technology world we override ourselves as supreme/Freedom to get out of any issues but karma will never vanish unless you use it. Postponement of small diseases causes as big one in janmantara as accumulated karma phala...",
+				"urlToImage": "/static/img/disease.png",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=FYxaxX1Or-s"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-07-19T05:00:00",
+				"unPublishDate": "2022-07-25T05:00:00",
+				"cardType": "normalCard",
+				"title": "The Growth & Pause of Madhwa Mathas in 20th century",
+				"description": "The Matha & Yatis or Matha devotees who focused on कालोयमीर श्रुतशास्त्र विचार हीनः हिनोच्छ्रायः  ग्रसित शाधुगुणोदयश्च, तस्मात् त्वामध्य मरुतात्मजदिव्यशास्त्र व्याख्यानमेव सततं कुरुमात्यजेति principles of following Madhwacharya tatwas are winners today in 2022. These mathas have attracted talent, young & moving people more into Sadhana Margas. Also, the Yatis have come as clear winners in adopting society into Madhwa siddhantha peacefully. While few who focused on development, association with wrong priorities are clear loosers. But all introspect then the madhwa community becomre much more strong in 2023 or coming years...",
+				"urlToImage": "https://external.fblr22-1.fna.fbcdn.net/emg1/v/t13/8215939077411706466?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fpszpl-1Q03s%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75&ccb=13-1&oh=00_AT8s8nwZ3FR66b6hnpRpXrDqzM0Q4VVt_ftIRKGw8aZsGg&oe=62DB2EBD&_nc_sid=c504da",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=pszpl-1Q03s"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-07-19T05:00:00",
+				"unPublishDate": "2022-07-25T05:00:00",
+				"cardType": "normalCard",
+				"title": "Why we do laborious work?",
+				"description": "Most of our struggle, non-rewarding jobs and also stress all are attributed to Karma that we escaped wisely(that is how we think). These karmas will not vanish just by themselves if you have not consumed rather you are forced to enjoy it( both good and bad karmas). We avoid helping parents, we avoid helping inlaws, we avoid considering husband as pati-devatha in modern world, we avoid giving birth just to manage our beauty. So finally where it reaches? Watch the video...",
+				"urlToImage": "https://lh3.googleusercontent.com/-4hs3sT_cXiA/Yn05Sy3P9KI/AAAAAAAAHfc/iz9041U8okMmnqVIls_mWgH6FA1BEItHgCNcBGAsYHQ/s1600/1652373831317487-0.png",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=siqT1DJASeo"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-07-19T05:00:00",
+				"unPublishDate": "2022-07-25T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "https://m.media-amazon.com/images/I/61nYf0NVxxL._SY500_.jpg",
+				"content": "",
 				"url": ""
 			},
 			{
@@ -132,156 +637,1134 @@
 					"id": "Sarvadarshi",
 					"name": "Sarvadarshi"
 				},
-				"author": "Madhavarao Kulkarni",
-				"cardType": "normalCard",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"title": "Subscribe to Sarvadarshi Taranga for more",
-				"description": "Sarvadarshi Taranga - fully focused to provide you a NON-BREAKING, non-contraversial news that helps to be always connected with Madhwa community and also to specific mutt that you belong to. This also bring lots of information from within such a great community where you can find programs, sales, events, volunteer opportunity, give-back to community, panchanga, special days, aaradhana information, voting for specific topics, kids corners, Tatva/Sidhantha corner to learn and enhance your knowledge",
-				"urlToImage": "/static/img/sarvadarshi.png",
-				"url": "https://youtube.com/madhavabk"
+				"author": "Madhavarao",
+				"publishedAt": "2022-07-17T05:00:00",
+				"unPublishDate": "2022-07-19T05:00:00",
+				"cardType": "adsCard",
+				"title": "aaradhana",
+				"description": "",
+				"urlToImage": "/static/img/malkhed.png",
+				"content": "",
+				"url": "https://www.sumadhwaseva.com/yatigalu/others/jayatheertharu/"
 			},
 			{
 				"source": {
 					"id": "Sarvadarshi",
 					"name": "Sarvadarshi"
 				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
+				"author": "Madhavarao",
+				"publishedAt": "2022-07-14T05:00:00",
+				"unPublishDate": "2022-07-15T05:00:00",
 				"cardType": "normalCard",
-				"title": "Great contents at RayaraKrupa website",
-				"description": "Really great stuffs at rayarakrupa.org site where you can find good amount of paintings, articles and also useful information. This is done by SHRI ANEL KUMAR, Founder & Director – PUNASCHETANA TRUST, he elaborates on the core vision, mission and purpose of this spiritual initiative, RAYARA KRUPA.",
-				"urlToImage": "/static/img/rayarakrupa.jpg",
-				"content": "Visit site for more details",
-				"url": "https://rayarakrupa.org"
+				"title": "The story of Dolo-650 outsales since covid-19",
+				"description": "Income Tax (IT) sleuths conducted simultaneous raids on Bengaluru-based pharma major Micro Labs Ltd. Micro Labs’s major product Dolo 650 made big business during the COVID-19 pandemic and the company emerged as the leader in the sector. Reports suggest the firm sold 350 crore Dolo 650 tablets since the outbreak of the pandemic in 2020. Providing Gift to doctors and pharma are major investments under 1000 Crore branding acts",
+				"urlToImage": "https://th-i.thgim.com/public/news/national/ow9cos/article65608890.ece/alternates/FREE_1200/Dolo-650%20tablet.jfif",
+				"content": "",
+				"url": "http://dhunt.in/yibiM"
 			},
 			{
 				"source": {
 					"id": "Sarvadarshi",
 					"name": "Sarvadarshi"
 				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
+				"author": "Madhavarao",
+				"publishedAt": "2022-07-12T05:00:00",
+				"unPublishDate": "2022-07-20T05:00:00",
 				"cardType": "normalCard",
-				"title": "Unique job opportunities for freshers",
-				"description": "As technology is changing and tough to get job in IT, here are few ways that you can crack job opportunities. Skill yourself in DevOps, Cloud, Building scalable products, Automation Testing etc. Where today most candidates fail today - not knowing end to end process of software development, how large software code gets developed and managed within organization. Learn from your seniors and friends. Dont be in silos",
-				"urlToImage": "/static/img/int.jpg",
-				"content": "Learn: How enterprise develop Software",
-				"url": "https://madhavkulkarni.blogspot.com/2006/07/interface-your-self-with-external.html"
+				"title": "Rama – He is Satyakama, how can kaama trouble Him?",
+				"description": "सर्वत्र सर्वानपि सर्वदापि प्राप्नोति कामान् ननु सत्यकामः  In the previous verse we saw Valmiki Ramayana mention that Rama is not affected by any of the defects like anger, envy etc. In the next few verses, we will see why the six enemies, and other defects, do not have any effect on Rama. This is based on Sangraha Ramayana of Narayana Panditacharya. The six enemies – kaama (lust), krodha (anger), mada (pride/intoxication), lobha (greed), moha (illusion), maatsarya (envy).",
+				"urlToImage": "https://qph.fs.quoracdn.net/main-qimg-1ff98e7ca349ce2cb51c0ebe8268c889-lq",
+				"content": "",
+				"url": "https://srimad.org/?p=565"
 			},
 			{
 				"source": {
 					"id": "Sarvadarshi",
 					"name": "Sarvadarshi"
 				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
+				"author": "Madhavarao",
+				"publishedAt": "2022-06-26T05:00:00",
+				"unPublishDate": "2022-07-10T05:00:00",
 				"cardType": "normalCard",
-				"title": "We are in Dadhi Vrata of Chaturmasa",
-				"description": "From 18 Aug 2021 Dadhi Vrata. Chaturmasa Vrata brings a great control over will power and also self control. Dadhi vrata marks second maasa in this Parva Kala. One should avoid eating Dadhi or Curds or Mosaru. Dont forget to spend time in doing spritual work which is most important. ",
-				"urlToImage": "/static/img/chaturmasa.jpg",
-				"content": "TRY: Practice doing Vrata its possible",
-				"url": "http://madhwamrutha.org/chaturmasya-vrata/"
+				"title": "Tapta Mudra Dharana Program 2022",
+				"description": "Pratham Ekadashi(known as Ashadha Ekadashi) is remembered for keeping ourselves pure internally and externally to devote rest of the year in GOD services. It is been recommended to take Tapta Mudra from their Gurus who are Sanyasis. Today we wear tatoos of sports, film persons as symbol of our respect towards them. While the whole our life runs with directions of Lord vishnu and finally he is our soul maker. Hence, wearing the Shankha-Chakra the symbols of Lord Vishnu is atmost important. Mudra is mentioned in Veda, Ayurveda & vishnu Rahasya as well...",
+				"urlToImage": "https://2.bp.blogspot.com/-Re8PXx9pfA4/WVoIJyplsxI/AAAAAAABPOY/EpkRofUlxKIkWa2NodrNgR60yTcZFNqFwCLcBGAs/s640/tapta-mudra-dharaana.jpg",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=7CEESByN7SY"
 			},
 			{
 				"source": {
 					"id": "Sarvadarshi",
 					"name": "Sarvadarshi"
 				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"cardType": "normalCard",
-				"title": "Pavitraropana - Pavitra Dhara wearing",
-				"description": "Pavitraropana is observed by all Madhwas to wear a specially knotted thread around neck on Shravana Shukla Dwadashi. This year its on 19th August 2021. This ritual enables one to get returns of their Devara Pooja performance through out the year. Hence on Dwadashi it should be submitted to GOD and then wear it with special mantras.",
-				"urlToImage": "/static/img/pavitra.jpeg",
-				"content": "PDF by: Dr. B R Venkateshachar",
-				"url": "https://drive.google.com/file/d/1AfgSecvw4Y4fTEbuF88Iwkj32PxBsOMP/view?usp=sharing"
+				"author": "Madhavarao",
+				"publishedAt": "2022-06-26T05:00:00",
+				"unPublishDate": "2022-06-30T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/ekarathi.webp",
+				"content": "",
+				"url": "https://youtu.be/XoO2ss7mN8g"
 			},
 			{
 				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
+					"id": "aaradhana",
+					"name": "Sarvadarshi"
 				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
+				"author": "Madhavarao",
+				"publishedAt": "2022-06-20T05:00:00",
+				"unPublishDate": "2022-06-22T05:00:00",
 				"cardType": "normalCard",
-				"title": "Sri Sudha - spiritual partner for life",
-				"description": "A great book is more than any friends in life, as saying goes you cannot have any better book than the books which gives thoughts of Lord Vishnu and Bhagavatha jnana. Sri Sudha is most effective family member to be successful in life. Get your copy soon - 8762629132",
-				"urlToImage": "/static/img/srisudha.JPG",
-				"content": "Follow Sarvadarshi News - Madhwa Channel",
-				"url": "http://www.srijspn.org/srisudha.html"
+				"title": "International yoga Day - a thought from Madhva Siddhantha",
+				"description": "Religious life manifests itself in the triple form of Conduct, Doctrine, and Devotion. We have to serve God by deporting ourselves as His humble servants, by subordinating our will to the Divine will, and by ceaseless service rendered unto Him and unto His Bhaktas. We have to serve and glorify God by studying and realising- the truths of Veda, by believing in a system of holy doctrines, by a firm grasp of Sri Madhva's philosophy in respect to God, Soul, and Nature. We have to serve God by means of devotion, by turning sublime love unto Him.",
+				"urlToImage": "https://yoga.ayush.gov.in/public/assets/front/blog/1622114125.jpg",
+				"content": "",
+				"url": "https://yoga.ayush.gov.in/idy-2021"
+			},
+			{
+				"source": {
+					"id": "aaradhana",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-06-23T05:00:00",
+				"unPublishDate": "2022-06-30T05:00:00",
+				"cardType": "normalCard",
+				"title": "[Video Blog] How Yoga solves most of your body & mind problems?",
+				"description": "Citta vritti is a term that refers to the thoughts that clutter the mind. The name comes from the Sanskrit, citta, meaning 'consciousness' or 'memory,' and vritti, meaning 'waves.' It can be translated in English to mean 'mind chatter,' and is sometimes called 'monkey mind.' One of the goals of yoga is to take control of citta vritti by quieting the mind, thereby reducing stress and increasing Self-awareness. Watch the video...",
+				"urlToImage": "https://atmanirvana.com/wp-content/uploads/2019/12/How-To-Tame-Your-Brain-And-Attain-Calmness.jpg",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=-iQ2RFqHa7k"
+			},
+
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "ZEENEWS"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-21T05:00:00",
+				"unPublishDate": "2022-05-25T05:00:00",
+				"cardType": "normalCard",
+				"title": "Know the significance of offering Archana in temples",
+				"description": "The purpose of Archana is to thank god for giving us all what we need for survival – be it the strength to endure agony or the basic essentials. It is indeed a thanksgiving gesture that cultivates the habit of sharing and caring. The Prasad offered to the deity is distributed among people and thus the fruits of prayers reach the needy too",
+				"urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2016/06/15/499156-archana-thali.jpg",
+				"content": "",
+				"url": "https://zeenews.india.com/entertainment/and-more/know-the-significance-of-offering-archana-in-temples_1896047.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-31T05:00:00",
+				"unPublishDate": "2022-06-05T05:00:00",
+				"cardType": "normalCard",
+				"title": "For building next generation we need to invest time now...",
+				"description": "Many opportunities are at the door, all we need to do is make use of them and build our next generation to fight against all evils. What about learning some skills that are needed today along with being in company of Satwik crowd? Here is an opportunity for people in and around Dharwad, Hubli to use platform provided - contact 9902761790 for more information.",
+				"urlToImage": "/static/img/gurukula.jpeg",
+				"content": "",
+				"url": "https://www.facebook.com/gurukula.nurseryschool/"
+			},
+
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-20T05:00:00",
+				"unPublishDate": "2022-04-22T05:00:00",
+				"cardType": "normalCard",
+				"title": "Poornapramati looking for you as teacher, volunteer or as a friend",
+				"description": "Purnapramati, a new school of thought, first of its kind, Integrating modern and classical systems, like Mathematics and Arts, Science and Philosophy, English and Samskrita, Social science and Culture, in a thoughtful and joyful environment to explore life to its fullest extent, to groom future leaders founded on strong values with a vision to pursue and a mission to fulfill, towards creating a holistic society of relevance.",
+				"urlToImage": "https://purnapramati.in/wp-content/uploads/2012/06/for-web-21.jpg",
+				"content": "",
+				"url": "https://purnapramati.in/join-us/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-12T05:00:00",
+				"unPublishDate": "2022-04-14T05:00:00",
+				"cardType": "normalCard",
+				"title": "Need to create a knowledge repository, says Bommai",
+				"description": "Chief Minister Basavaraj Bommai said spirituality and science should go hand in hand as there is a need to create a knowledge repository. 'Science and spirituality are two sides of the same coin,' he said while inaugurating the newly constructed district and city library building named after scholar late Dr Bannanje Govindacharya in Udupi on Monday...",
+				"urlToImage": "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2022/04/12/file7kiomaupqdliyvhjom2-1099869-1649704806.jpg?itok=BKi2uOll",
+				"content": "",
+				"url": "https://www.deccanherald.com/state/mangaluru/mcc-to-develop-app-to-redress-citizens-civic-woes-1099872.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-10T05:00:00",
+				"unPublishDate": "2022-04-13T05:00:00",
+				"cardType": "normalCard",
+				"title": "Editor Speaks - The framework that builds best characterstics in kids",
+				"description": "While as a smart parent we want to give our kids great example and references we should know how references are to be given? What type of references normally work and does not work. If you give reference of brother, relative, sister or school mate(who is scoring more marks or good at school) it is called as near reference. If you give reference of a CEO, pandit or saints or Pralhada or Harischandra its called as far reference.",
+				"urlToImage": "https://i.ytimg.com/vi/daIGbenRLjw/maxresdefault.jpg",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/04/sarvadarshi-insights-reference-giving.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-10T05:00:00",
+				"unPublishDate": "2022-04-12T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Sumadhwa Bytes - Carry something when you visit elders/king, kids & Guru",
+				"description": "They clearly explain that from Himayala to Ramsetu the Bharath khanda(India) looks like a BOW shape. One should definitely wonder when there was no aerial view and no satellites and drones how Sri Anand Teertharu explained the shape of the Bharath Khanda? Read more",
+				"urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEjgopIATr7rFfl8P754wEJ-pLsMq_GJOZX17H656cvfCe6pGeVNNnCLHmnVz7iru3GKf7FqpMBOp34sbsANWBc5-ZnCqkPtXC2RGQU90Fhbu-a6BXFFhJdzmoKRL2N5efayQNTAtJy-qeW69zyTPJRav0KVdxnIiUli0WZ5ndvan15mRdhhusOzYOGK",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/04/sarvadarshi-sumadhwa-bytes-carry.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-08T05:00:00",
+				"unPublishDate": "2022-04-10T05:00:00",
+				"cardType": "normalCard",
+				"title": "What triggered strongest statement - 'Brahma-Tejo-Balam'",
+				"description": "Curse my power, the power of a warrior;The strength of the glory of Brahman is real strength.By a single staff of Brahman,All my weapons and missiles, are destroyed. The Turning Point for Brahma Rishi Vishvaamitra ...",
+				"urlToImage": "https://images.squarespace-cdn.com/content/v1/5d28f7364ea6020001599ba3/1567539140632-8RXAKCXT0VV6I0JTQ739/dhig+balam_1.jpg?format=750w",
+				"content": "",
+				"url": "https://www.americansanskrit.com/brahmatejobalam"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-07T05:00:00",
+				"unPublishDate": "2022-04-09T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Insights - Spread of Dharmik Extra activities needed in tier 2-3-4 cities",
+				"description": "The metro cities of India are seeing lots and lots of Dharmik attachments and Madhwa generations are building multiple skills to live life the way they want. But, there is a need for Tier-1 volunteers and IT and allied segment people to spend their time in giving these skills and building awareness of such skills( these skills keep kids away from mobile, other distractions as well) so that it will provide more opportunities to parents and also new job opportunities within the community.",
+				"urlToImage": "https://images.newindianexpress.com/uploads/user/imagelibrary/2018/8/22/w600X300/Do_non-metro_cities_provide_a.jpg?w=400&dpr=2.6",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/04/sarvadarshi-insights-spread-of-dharmik.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "TTD"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-04T05:00:00",
+				"unPublishDate": "2022-04-08T05:00:00",
+				"cardType": "normalCard",
+				"title": "Dasa Sahitya Lahari Sri Krishnadas Murugod Dasaru",
+				"description": "Sri Krishna Das Murgod is fairly well known by everyone in North (Uttara), Karnataka. They spread hari-das Sahitya by visiting house after house with out demand of any benefits. Their true service to GOD was to spread Madhwa Tatwa hidden in the Das Sahitya.  Murgod Dasaru has knocked the house after house, & Performed Bhajana as per our Dwaita Philosophy-Taaratamya-Panchabheda. His voice & continuous spell of full taratamya list of songs is not possible to be copied by anyone else. All the Padas-Songs -Sulaadis of Dasa are all in his mouth, sings by heart.  We feel as though he has crammed up all these great Literary works.",
+				"urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEhqoxXElGMX_lE49j8zROVDYTnhQR-pQfu3aPDDHnwswlqF3d4ABkBH1GpNZQgun15I_oeWSC6iSnSwdIB6gkf2yfzfBkEYhlzjfPvl9rchweqN9SqJrvR9NZtR1iur6TAmQ__ga7Hy9aBWPjSHUoKP87rh3QjEq6CHvHN4CQXIMjkv0-HIF954xm58=w352-h400",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/04/dasa-sahitya-lahari-sri-krishnadas.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-05T05:00:00",
+				"unPublishDate": "2022-04-08T05:00:00",
+				"cardType": "normalCard",
+				"title": "Listen the power of Sudhama at the peak of poverty",
+				"description": "Another interpretation sees Sudama's meeting Lord Krishna and his coming back home to a better life as an allegory of the process of meditation: Urged by the mind, the intellect goes to and identifies with the inner Self, which refreshes and rejuvenates on all levels and awakens the memory of the Vedas. After returning to the relative, the intellect finds that all experiences are glorified. ",
+				"urlToImage": "https://www.godhdwallpapers.com/wallpapers/2018/10/krishna-sudama-dosti-images-1920x1080.jpg",
+				"content": "",
+				"url": "https://www.youtube.com/watch?v=-jfxeYLczdQ"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-04T05:00:00",
+				"unPublishDate": "2022-04-08T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Insights - Thoughts move from mind to minds",
+				"description": "Ideas are collection of solution oriented steps that arrive after some one aquires power of thinking. When thoughts mature and starts finding common things between many thoughts collected in mind trigger ideas. The supreme GOD is the power behind ideas. He makes us capable of dreaming, collecting and ideating...",
+				"urlToImage": "https://qph.cf2.quoracdn.net/main-qimg-6e3c185b1cab7f7b4d38a51ae735b953.webp",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/04/sarvadarshi-insights-thoughts-move-from.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-01T05:00:00",
+				"unPublishDate": "2022-04-03T05:00:00",
+				"cardType": "normalCard",
+				"title": "Facebook Reels & short video - the worst thing to expose yourselves",
+				"description": "These days often you see girls making videos, clicking selfie at every instances like marriage, on roadside, garden, school etc. The issue is not with the taking of photo, the issue is with Social Media where it goes and get visible. Facebook has invested a lot to identify its backdoor entry to business opportunities always, if you look sexy then soon you may be online source for lots of bad activities in the world!!!",
+				"urlToImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0PNQzPGMJWqQQbvmL26rS46gwninfTqU0w&usqp=CAU",
+				"content": "",
+				"url": "https://scroll.in/article/1005646/instagram-is-bad-for-teenagers-and-its-owner-facebook-has-known-this-for-more-than-a-year"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-03-30T05:00:00",
+				"unPublishDate": "2022-04-10T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Insights - Need of the hour to spread across Western Ghats",
+				"description": "The Western Ghat is a boon for us to cover Madhwa Tatwa and also provide rich nature friends Madhwa Kshetra for future generations. This kshetra is been touched by Sri Madhwacharyaru and has now been limited to what our ancestors have constructed. If we don't invest ourselves into the growth of Madhwa kshetras(not just renovating, again and again, existing ones but building new ones) then we can be sure that we lost such nature-friendly heavenly places.",
+				"urlToImage": "https://th.bing.com/th/id/R.2ee358f74421f9c51b2c15e23fe31bfd?rik=d5ujZ%2bjXhRPFrQ&riu=http%3a%2f%2fwww.happytrips.com%2fphoto%2f52653083%2f1.jpg&ehk=zIaOjyMXTewuu1521MFmNvtAbJwydSSe0KwjyH2YtDY%3d&risl=&pid=ImgRaw&r=0",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/03/sarvadarshi-insights-need-of-hour-to.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-03-24T05:00:00",
+				"unPublishDate": "2022-03-28T05:00:00",
+				"cardType": "normalCard",
+				"title": "The theatre effect - pshycological impact",
+				"description": "The movies create a long-lasting psychological effect on minds. Today most young crowd behavior is driven out of the impression created by movies, advertisements. This has led young to feel stars are - great people on earth. In 1990 when movies were funded by underworld Don lots of movies covering love marriage created an impact and the result of that was seen in our community. In 2022 Sri Jagannath Dasaru movie was the best breakthrough...",
+				"urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEgvmLZlmfv0wX7fs1OiV67ZlLgS-n5_sMKeoRpoxxnRXjyP4_J5rJVziuKvhPajT_hR-hun1CikBGRxMVdHwoNdW4Ef1tl7WrtSVyFHF3NwdE4Bs0bq3FOPv-RZnXtfFt9d1CeHIl_aTtOKoFp4ro5-ExGZQdEKY1NeANsZfKeaUBLaqV7qd3BAV1q_",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/03/sarvadarshi-chintana-theater-effect.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-03-20T05:00:00",
+				"unPublishDate": "2022-03-25T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Highlights - Guru-shishya learning thirst an inspirational story",
+				"description": "A video of a boy running daily night to home with hope of preparing for army goes viral on social media. We must spread one more inspirational story of our Pt. Sumedhachar Kallapur. The story of preparing for samgra Bhagavata exam and covering random 1650 questions infront of multiple saints and learned scholars is not easy. Pt. Sumedhachar Kallapur and their gurus Pt. Pavamanachar & Pt. Anandachar (maybe a few more gurus) shishya-guru have made a record which was witnessed by 2000+ audience physically present and 10000+ audience virtually present in live streaming. Read more...",
+				"urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEiKTtKKpGxVMsv7cU1uHY0WAn4vhDXPg4u77dPPTyszGz3o2ws2HehkRWFrpIBr0DsUbNNfmQfTuraJC8V95rzu0Dgqto9VMjflCCTu8CroxuOs8FmXeQAi62KYZvxO0C2rCslZUAFAGirpJcF0IEpmHAUYLfhWWBM0XcxooAHFTHB2XMepOR6MW9XY=w400-h205",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/03/sarvadarshi-highlights-guru-shishya.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-03-16T05:00:00",
+				"unPublishDate": "2022-03-18T05:00:00",
+				"cardType": "normalCard",
+				"title": "Give pampkin daana and earn lots of punya?",
+				"description": "Most of the daana items are made to benefit receipients. Today we consider only 'Money' as only daana item, but other important items like Pumpkin daan can earn more punya. Pumpkin comes with lots of benefits and few of them are good sleep & great benefit to thinking/memory power. Specially growing kids would benefit. Most temple, matha teerth-prasada provides large amount of pumpkin serving as part of food. Thus teerth-prasad not only cleans sins but also boosts health. Check the benefits now...",
+				"urlToImage": "https://cdn.shopify.com/s/files/1/0336/7167/5948/products/image-of-pumpkins-vegetables-27960732713004_512x512.jpg?v=1618238328",
+				"content": "",
+				"url": "https://drhealthbenefits.com/health-a-z/kids-health/health-benefits-of-pumpkin-for-baby#:~:text=1%20Energy%20Source.%20The%20first%20and%20most%20important,is%20sure%20to%20nourish%20your%20little%20one%E2%80%99s%20digestion."
+			},
+
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Indiatimes"
+				},
+				"author": "Bharath Sharma",
+				"publishedAt": "2022-03-15T05:00:00",
+				"unPublishDate": "2022-03-18T05:00:00",
+				"cardType": "normalCard",
+				"title": "Do you find that your kids have not got all skills that helps to lead future life?",
+				"description": "While many kids are playing your kid might be quiet, while others are organizing work in a team - your kid stands quiet, while other kids participate in the competition - your kid wants to be away from it, often your kid comes under crying and sad situation. Do any of these issues bother you? Please see what might be wrong in you giving them the required things to bring them up...",
+				"urlToImage": "https://new.yogapractice.com/wp-content/uploads/2019/05/Yoga-Moves-Beyond-The-Physical-With-The-Eight-Limbs.jpg",
+				"content": "",
+				"url": "https://www.battelleforkids.org/networks/p21/frameworks-resources"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Indiatimes"
+				},
+				"author": "Bharath Sharma",
+				"publishedAt": "2022-03-12T05:00:00",
+				"unPublishDate": "2022-03-18T05:00:00",
+				"cardType": "normalCard",
+				"title": "Forgetting Isn't Bad, It's Actually A Form Of Learning Say Scientists",
+				"description": "Our memories and retention capabilities have been tremendously changed over the course of the last decade - with ease of digital memory provided by smartphones and other devices. If you find yourself forgetting details here and there, you're not the only one. And now scientists believe it may actually be associated with a process that aids learning.",
+				"urlToImage": "https://im.indiatimes.in/content/2021/Dec/3_61cc1a28443c6.jpg?w=725&h=380&cc=1",
+				"content": "",
+				"url": "https://www.indiatimes.com/technology/science-and-future/forgetting-form-of-learning-research-study-559964.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-03-27T05:00:00",
+				"unPublishDate": "2022-05-06T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/quotes96.webp",
+				"content": "",
+				"url": "https://tfi-store.com/sanskrit-quotes-on-women-manusmiriti-shlokas/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-03-25T05:00:00",
+				"unPublishDate": "2022-05-06T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/quotes95.webp",
+				"content": "",
+				"url": "https://tfi-store.com/sanskrit-quotes-on-women-manusmiriti-shlokas/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-03-09T05:00:00",
+				"unPublishDate": "2022-05-06T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Insights - Karmayoga of Universe",
+				"description": "We appreciate and accept organization work ethics put by & approved by highest authority though we are not really sold to them nor we are under their control as human being. When we draw this parallel to our Janma to become part of the universe, where are the work ethics? What are these ethics called as? who is the supreme to write these work ethics? who really is our caring supreme to write work ethics so that we live along with non-living beings in most beneficial ways? Read more...",
+				"urlToImage": "https://integralyogamagazine.org/wp-content/uploads/2009/11/13219422_f496.jpg",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/03/sarvadarshi-insights-karmayoga-of.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-02-25T05:00:00",
+				"unPublishDate": "2022-03-02T05:00:00",
+				"cardType": "normalCard",
+				"title": "A make up can go away when washed - so why are we fooling ourselves?",
+				"description": "One cannot simply adopt the life style of others. The given life span is not enough to copy and execute it in same way. Thus either western into sanatan or sanatan into western lifestyle change will be half coocked, and leading to diseased gratification in life. This is the wonderful weakness that we develop as an individual and then weaken our community so that others can ride us and destroy faster. Read more...",
+				"urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEiKD19nYKiflrGPTFN7BOQ2WmPlW-ex85f7zqyr3l-jiFgxuOzUdADEyLtnh7altNTST4E1GIuMzNWfWX2RZg2lyNtSZnP4NrEgI4opH06GE-xd11AhOv8iU80MmnaxBEXlPb9HTywRXs_ZNrpN9xTxhG_vIDjcwtBPjIvb673WvjuSz1Ou2qo8QOUn=s320",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/02/sarvadarshi-chintana-from-sanatana-to.html?sanataka"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-02-21T05:00:00",
+				"unPublishDate": "2022-02-29T05:00:00",
+				"cardType": "normalCard",
+				"title": "Raward for goodness, though Goodness comes purely from high ability of the SOUL",
+				"description": "Reach out to 9110626140. Last date 28-Feb-2022. Here is the great opportunity for rewarding people who are really following Madhwa Dharma in 2022 year. When a great extent of families turned themselves into western lifestyle still you find wonderful families that follow Dharma at most possible. There is opportunity to nominate such 5 category fitment Madhwas for rewards like 1. Nachiketa 2. Aakashraja 3. Sudhama 4. Saraswathi Purandharadasa 5. Kunthi and Pralhad awards...",
+				"urlToImage": "https://scontent.fblr22-1.fna.fbcdn.net/v/t39.30808-6/274348774_481247053628023_4468116324470011995_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=5cd70e&_nc_ohc=VBQqVAH37d4AX9G9ydD&_nc_ht=scontent.fblr22-1.fna&oh=00_AT-S7OabM4HDazDFArKnBFUY0f61IJJAaz3GIiKJ4HCtzA&oe=621896DC",
+				"content": "",
+				"url": "https://www.facebook.com/groups/964526613579343/permalink/5185381404827155/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-02-17T05:00:00",
+				"unPublishDate": "2022-02-18T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/krishna-river.webp",
+				"content": "",
+				"url": "https://en.wikipedia.org/wiki/Krishna_River"
+			}
+		]
+	},
+	"sadhakaru": {
+		"status": "ok",
+		"totalResults": 12,
+		"articles": [
+		{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-11-01T05:00:00",
+				"unPublishDate": "2022-11-10T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Sadhakaru - Sri Anant Kulkarni",
+				"description": "Bagalkot been a hub for large number of madhwa families decades ago and today as well. Banashankari of Badami is one of the most visited places for madhwas in Bagalkot as family deity. The Dasa Sahitya and Vyasa Sahitya both are part of this soil since several centuries. To justify this one can remember Sri Prasanna Venkata Dasaru who is most popular from this region. Haridasa sahitya work has taken a lots of contributions from Bagalkot region to enrich Vishnu Tatwa among common people. Anant Kulkarni started singing at 1977 itself, and later secured B.A. in Sangeeth Shastra. Later he was also honored as A grade singer in Akashvani, Prayag Sangeeth Association provided 'Sangeeth Marthand' titles. His popularity begin from Uttara Karnataka as the tones he used for popular songs were born out of the Uttara Karnataka style. Read more...",
+				"urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAJ27_0YxT1KW6AaMIhv_uoI-BctDT7eNq4QUM_2MUZHV-Mz7Xn2b-OGaoKIpkJImgvOVQ9Lk8gjuxPXng-jd-fct9bNpw8_XhPFbuYA9lxEBQy8E8JJg9L9Tthyq9Bko1-cZYD8f6aK464YNtRiI7asLAnTQAgTQzL_CHf0YQTmgSRUjgIbzCw6ZU/w310-h320/anant_kulkarni.jpg",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/10/sarvadarshi-sadhakaru-sri-anant.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Sheshamoorthy Awadhani",
+				"publishedAt": "2021-10-06T05:00:00",
+				"unPublishDate": "2022-01-07T05:00:00",
+				"cardType": "normalCard",
+				"title": "Madhwa Sadhakaru - Sri Ramacharya H Awadhani",
+				"description": "Sri Ramacharya Awadhani of Mannur is known for extreme reading hunger of shastras. Their sadhana does not stop at just reading, it covers a great Brahmacharya, covers life long giving up on material life, donation of all assets to relatives and temples, full day time spending in sadhana, paatha, pravachan. At the old age as well around 90 doing strict Chaturmasa, Ekadashi, visiting Aaradhana. He is living library of many Madhwa memories.",
+				"urlToImage": "/static/img/ramukaka.webp",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2021/10/sarvadarshi-madhwa-sadhakaru-sri.html?445566"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-08-16T05:00:00",
+				"unPublishDate": "2022-08-18T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Madhwa Sadhakaru - Sri Sreenivasacharya Gurachar Katti",
+				"description": "As we know RSS is the unique group which comes when there is flood, national issue and also natural disaster times. In 1994 when there was an issue to hoist flag in Idga Ground(ಈದ್ಗಾ ಮೈದಾನ) there was a work going on from RSS lead by Murali Manohar Joshi, Uma bharathi and many others and Sri Sreenivasachar Katti were one among them. While there was fight with Govt itself (Which was not allowing to hoist flag in the interest of Idga Ground groups), they hoisted flag that year and also in the gun-fires attained Haripada as Veera Yodha.",
+				"urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-FOjXKpVqbCnuU4IJfB8VqFJk1JoJlMuIeEi29Wp3fFh0fDFdqUnFljmMVzJBvmkEvXt1cwRpXT2zaTuydK1kSRiOtw7oBjyfM_FxE9X4zTT27XtEOHXDR_Zst5KPysClIrFdi7mXRDIiHCoEBwrEwGXCn4l7K-13S-lj4_DGX1g3zNIXxi9i6EeR/s320/WhatsApp%20Image%202022-08-15%20at%207.32.49%20PM.jpeg",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/08/sarvadarshi-madhwa-sadhakaru-sri.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-31T05:00:00",
+				"unPublishDate": "2022-06-10T05:00:00",
+				"cardType": "normalCard",
+				"title": "Madhwa Yogi Nimbal Sri Hayagreevacharya",
+				"description": "Sri Hayagreevacharya is one among most popular scholars of 19th century in & around Bijapur. Having lost eyes but still having all shastra, purana, stotra, tarka, nyaya at tip of the toung can explain their vairagya shakti, jnanayogyate and tapas. Today the name of such a small village Nimbal if its popular at world level then this is only due to such great saint like mahayogis. They ran Jnana Dasoha, Anna Dasoha and also vidya poshana of large number of students for free. One can visit Sri Vitthala Mandir at Nimbal till today. Their satkarma hinted them time and date of their soul departure. Read more...",
+				"urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEip3rCwy9gcqXX1oFMkwuoQ_0YsBa_QlTNt_AA12eJVpEo3u0jb1IvWjP99BcMuYxPuIBSPefnbs7wzZfk0LF80595pZfgw8WR5WLHBQt5prNp9umR5eLOa15YaGHEQYiEM2OpwKD_dR7kYL499LJpuWUkdtCTdFNCf9NqeCLyheS1EQU7BWNphJMe7=w308-h400",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/05/sarvadarshi-tarang-mahayogi-sri-pt.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-31T05:00:00",
+				"unPublishDate": "2022-06-10T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Madhwa Sadhakaru - Smt Godhutai Kulkarni",
+				"description": "But, this is where Godhutai story comes to the notice. While family and kids grew further its Godhutai who kept the flag hoisted on 15th August 1947 safe and in same sanctity. During those days even a family lady having great responsibilities of home making and educating kids and taking care of family, she was still focused on keeping flag safe and also reminding family to hoist it every year. Though she was not literate but having great Dharma and Desha Bhakti is still an inspiration to the young women of today. She had 12 kids and she took care of Flag as if its her 13th kid!!!",
+				"urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGH9wCu3zqPs19fsvtPrDMD2PZODqTqthg42rKwIW-F1wOOF3PjuTQE3X5YO4fbQpirWqybs5bCnqjEbw3z8aXawpL2eLozVVqO91XoWSrZmVTR2Dbt5ErE-QEXzt4gQK_2p4aoZw9pWrrlOXTQzhrcEys9jS9nKDg-D6qUID7qRGIYUcIj7cgjP1-/w328-h320/godhutai.JPG",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/05/sarvadarshi-tarang-mahayogi-sri-pt.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-10-12T05:00:00",
+				"unPublishDate": "2022-10-22T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarvadarshi Madhwa Sadhakaru - Bheemacharya Vadavi(Maaruteesh Vitthal dasa)",
+				"description": "One should also know the Guru of such great people. Their Guru was Sri Subbaray Dasa. Yatha Guru tatha Shishya as the saying goes Sri Bheemacharya got interest in Hari-Dasa sahitya(the sahitya that brings wealth of Veda Jnana to common man in Kannada Language). Hence, they put effort in study, analysis and right interpretations of hari-dasa sahitya too. This work gave outcomes like Kanakadas Charitra, Giriyammana charitra, Sri Raghavendra Kathamruta, Sripadaraj Charitra kavyas. With such a devotion and knowledge that they got through Hari-Dasa sahitya they even got inspired to become a Dasa(one who always worships lord Vishnu is called as Daasa, spreading true knowledge of Vishnu is main work of Dasaru). Read more...",
+				"urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcYkOMpL-CFC38Nt_Tt0PrL4MSn6vCnJEHv_Fg0axSekgv_M7UuRDeE-NTDXanZHw10eiY-_PbBi4oa1gcw2XyfOG8wPGBitj0hNiGDb8isoNBUM0T77IlekmD2eCPaikHUlvw2TQqfqmfXPSvA1IAqo2OADIRnC01GFwFnxhK8BOXAVK-DvCXs9Yl/w275-h400/WhatsApp%20Image%202022-09-15%20at%209.35.51%20PM.jpeg",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/10/sarvadarshi-madhwa-sadhakaru-sri.html"
+			}
+		]
+	},
+	"kshetra": {
+		"status": "ok",
+		"totalResults": 12,
+		"articles": [
+		{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-09-12T05:00:00",
+				"unPublishDate": "2022-09-20T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sri Anjaneya Swamy Temple is Hanuman temple located at Chowluru,Andhra Pradesh ",
+				"description": "Janamejaya Hanuman and Sri Vyasaraj Pratistita hanuman have great significance. However, being nearest to the place like Santebidanoor where there is also a Janamejaya Pratistan Sri Anjaneya temple and saints like Sri Satyavara, Sri Satyaparayana teerthas would have surely visited and worshiped this Hanuman which would give more sannidhana of Jeevottama Vayudevaru. Read more...",
+				"urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHD8VAYmISVevRNy8IXChUBZMjKxPLZOQZkBNmUZgn9D7G5bp5BL6KURZk5mN3mxhHDkVN8hid6A6m17I4DbfyVBbmGqHN2t_uMMkkEfh6g8Y42D99cH7CdbisAXWbu1ZDVdInO9aJ0JRCdWSNFPYTl2zWjYQDdqYc__8S8MXwuOgF6tcvXP8jkBPO/w300-h400/WhatsApp%20Image%202022-09-05%20at%206.59.18%20PM.jpeg",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com/2022/09/sarvadarshi-kshetra-mahime-choluru.html"
+			},
+			{
+				"source": {
+					"id": "KSHETRA",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-20T05:00:00",
+				"unPublishDate": "2022-05-30T05:00:00",
+				"cardType": "normalCard",
+				"title": "Sarva Papa Nivaraka Mannur Chenna Keshava",
+				"description": "Mannur is a village in Kalaburagi district. Its just 100kms from Kalaburagi and reachable by roads. One can reach Mannur from Vijayapura, Solapura as well easily. This place has become more divine due to Dhruva Karachita Lord Chenna Keshav. Sri Chenna Keshava is aradhya deva of families like Jahagirdar, Aadya. Sri Dhruva Maharaja has worshipped the Vasudeva moorthi as prescribed by Maharshi Narada. Later this Vasudeva moorthy was worshipped by Agastya maharshi. The Vasudeva moorthy was found below sandbed in middle of river Bheema. Sri Vidhyanidhi teertharu of Uttaradimath, installed this moorthy.",
+				"urlToImage": "/static/img/kesappa.webp",
+				"content": "",
+				"url": "https://mannurcharitre.blogspot.com/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-02-17T05:00:00",
+				"unPublishDate": "2022-02-18T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/krishna-river.webp",
+				"content": "",
+				"url": "https://en.wikipedia.org/wiki/Krishna_River"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-02-17T05:00:00",
+				"unPublishDate": "2022-02-18T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/bheema-insights.webp",
+				"content": "",
+				"url": "https://en.wikipedia.org/wiki/Bhima_River"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2021-11-11T05:00:00",
+				"unPublishDate": "2022-01-07T05:00:00",
+				"cardType": "normalCard",
+				"title": "Unique hanuman temple of Halagani Hanuman",
+				"description": "Halaganesh(Mukhya pranadevaru) temple hold history of around 4000+ years. Mukhyaprana Devara moorthy has 3 avataras represented very nicely and unique ways. Said to be discovered by Janamejaya Maharaja while digging operation through 'HALA/negilu'. At the head you will find shikhe - representing acharya MADHWA, face towards south - representing HANUMA, while legs are turned to north(opposite direction of face) representing another avatara BHEEMA. This temple is located just near to the main road itself, thus making it easy for travellers to visit during Vijayapura visits. Many local people daily come and worship 3 times to Mukhya Prana. From Vijayapura this is just 28km distance and with good road connections.",
+				"content": "",
+				"urlToImage": "/static/img/halaganesh.webp",
+				"url": "https://sarvadarshitarang.blogspot.com/2021/11/kshetra-darshana-ibrahimpur-venkatesh.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2021-11-08T05:00:00",
+				"unPublishDate": "2022-01-07T05:00:00",
+				"cardType": "normalCard",
+				"title": "Ibrahimpur Vijayapurua Swayam Udbhava - Venkataraman",
+				"description": " Just near to entry of Vijayapura from Bangalore to Solapur national highway, there is a beautiful Swayam Udbhava Lord Sri Venkatesh temple. It is having around 100+ years of history. It is said to be that during Bijapur shahi's time when the place was planned to construct a tomb the construction workers found lord Venkatesh status which is in just right tilted style. During Navaratra lots of Madhwa girls, boys and families do padayatra for almost 5kms to reach the place from their homes. Sri Venkatesh has been blessing the Vijayapura people from the south side and while Torave Narasimha blesses people from the north-west side.",
+				"content": "",
+				"urlToImage": "/static/img/ibrahimpur.webp",
+				"url": "https://sarvadarshitarang.blogspot.com/2021/11/kshetra-darshana-ibrahimpur-venkatesh.html"
+			}
+		]
+	},
+	"trending": {
+		"status": "ok",
+		"totalResults": 12,
+		"articles": []
+	},
+	"coronavirus": {
+		"status": "ok",
+		"totalResults": 12,
+		"articles": [{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-03-17T05:00:00",
+				"unPublishDate": "2022-03-18T05:00:00",
+				"cardType": "normalCard",
+				"title": "What kind of hair you have? Have you heard about it?",
+				"description": "Kapha hair (smooth and shiny), oil them once/twice with a hair oil with sesame base. Pitta hair (oily scalp and white hair), oil them twice with coconut or ghee hair oil base. Vata hair (dry, thin, frizzy and split ends), oil them twice with almond, sesame and castor hair oil base. How to take care of your hair lets read some great tips from Ayurveda here...",
+				"urlToImage": "https://cdn1.blovcdn.com/bloglovin/aHR0cHMlM0ElMkYlMkZzMy5hbWF6b25hd3MuY29tJTJGZmlsZXMuYWN0aXZhdGUuc29jaWFsJTJGdXNlci1pbWFnZS0zMjk2NDkzNS0xNTkyNDAyNTQ5LTVlZWEyMjc1ZTZlOTQ=?checksum=38308d643108105f0a4c478cb318037d7b8a8baf&format=j",
+				"content": "",
+				"url": "https://www.bloglovin.com/@drniteshkhonde8/ayurvedic-skin-hair-treatment-by-its-type-5625237"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-03-17T05:00:00",
+				"unPublishDate": "2022-03-18T05:00:00",
+				"cardType": "normalCard",
+				"title": "6 Interesting Makhana Benefits",
+				"description": "Though its not used much in madhwa families as food item but here are some benefits it provides to the body. Makhana is a type of seed derived from the Euryale ferox plant. They’re also sometimes referred to as fox nuts or lotus seeds. Makhanas are widely cultivated throughout Asia and often used in traditional forms of medicine to treat various conditions (1Trusted Source). They’re also sometimes roasted and enjoyed as a savory snack or added to curries, side dishes, or desserts.",
+				"urlToImage": "https://www.eatnummy.com/wp-content/uploads/2020/05/Makhana-Benefits-Nummy-Makhana.png",
+				"content": "",
+				"url": "https://www.healthline.com/nutrition/makhana-benefits"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-03-17T05:00:00",
+				"unPublishDate": "2022-03-18T05:00:00",
+				"cardType": "normalCard",
+				"title": "Ash Gourd for your health",
+				"description": "This green vegetable has been well-regarded for its significant medicinal values since ancient times and is widely documented in Ayurvedic texts. Today, it continues to be heralded for its immense health benefits and is widely incorporated, in popular local cuisine across India, as well as in alleviating illnesses of the stomach, liver and skin, to name a few.",
+				"urlToImage": "https://i.etsystatic.com/17612060/r/il/c3450b/3400356101/il_794xN.3400356101_elk2.jpg",
+				"content": "",
+				"url": "https://www.netmeds.com/health-library/post/ash-gourd-health-benefits-nutrition-uses-for-skin-and-hair-recipes-side-effects"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-03-23T05:00:00",
+				"unPublishDate": "2022-03-30T05:00:00",
+				"cardType": "normalCard",
+				"title": "योग: चित्तवृत्ति निरोध:  - for healthy world",
+				"description": "Most health issues stem out of our mind that generates all signals to the body. The so called compititive environment that we live it, causes a great depressions even though body does not produce quick symptoms. These all situations make mind produce negative energy and spread to the body causing lots of health issues. Yoga as said rightly - योग: चित्तवृत्ति निरोध:  the Yoga has power to reduce one of the Vritti called Chitta Vritti. Thus helping one to live happily and healthy.",
+				"urlToImage": "/static/img/yoga2.webp",
+				"content": "",
+				"url": "http://holisticyou.de/?p=1043&lang=en"
+			}
+		]
+	},
+	"sidhanta": {
+		"status": "ok",
+		"totalResults": 12,
+		"articles": [{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-12T05:00:00",
+				"unPublishDate": "2022-05-30T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/quotes102.webp",
+				"content": "",
+				"url": "https://satkarta.blogspot.com/"
+			}, {
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2021-10-21T05:00:00",
+				"unPublishDate": "2022-01-07T05:00:00",
+				"cardType": "normalCard",
+				"title": "Problem vs. Solution Mindset",
+				"description": "The are two ways of thinking. Predominantly we have people who are Problem Mindset thinking. Such people even gather several times comes with no solution. They keep on adding problems to the list and feel great. While Solution Mindset people think differently and even you have one such person you get solution to problem. Most of our discussions, community thoughts end up with no conclusion or result because people are just problem mindset thinkers. Such people have energy but cant get value. Just if they learn how to convert to Solution mindset can add lots of value to community. Learn more through us.",
+				"urlToImage": "https://livingtolead.com/wp-content/uploads/2017/08/Problem-Solution-Mindset-Dave-Ferguson.png",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com?solnmindset"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2021-10-21T05:00:00",
+				"unPublishDate": "2022-01-07T05:00:00",
+				"cardType": "normalCard",
+				"title": "Want to know how to put your kids into good culture?",
+				"description": "Most parents have trouble in knowing formula to keep their kids culturally rich. It is parents responsiblity to pass on rich culture of madhwas to generation by generations. This an art, and also have to be really well attended through formula. Please watch this video to know the formula to get your kids into good culture sooner.",
+				"urlToImage": "/static/img/core-values.webp",
+				"content": "",
+				"url": "https://youtu.be/MMTxzaxccZE"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "TTD"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-07T05:00:00",
+				"unPublishDate": "2022-04-08T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/ram_navami5.gif",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "TTD"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-06T05:00:00",
+				"unPublishDate": "2022-04-08T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/ram_navami4.gif",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "TTD"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-05T05:00:00",
+				"unPublishDate": "2022-04-08T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/ram_navami3.gif",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com"
+			}
+		]
+	},
+	"yatra": {
+		"status": "ok",
+		"totalResults": 12,
+		"articles": [{
+				"source": {
+					"id": "Satkarta",
+					"name": "Satkarta"
+				},
+				"author": "",
+				"publishedAt": "2022-05-23T05:00:00",
+				"unPublishDate": "2022-05-27T05:00:00",
+				"cardType": "",
+				"title": "",
+				"description": "",
+				"urlToImage": "",
+				"content": "",
+				"url": ""
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-06-24T05:00:00",
+				"unPublishDate": "2022-06-30T05:00:00",
+				"cardType": "adsCard",
+				"title": "Satkarta Donation Project 53",
+				"description": "Thanks to all donors of Project - 52, with 91 donors we got around 25000/- and donated to needy for the payment of hospital bills and other medical expense requirements. The needy Madhwa family members have done really great working during covid-19 lockdown, so through Satkarta God has provided them this help. All Satkarta Seva Association members wished the family to achieve more Madhwa Sadhana. Our small donations should help their family to achieve extra mile in Madhwa sadhana. Also we request Madhwas to come forward and do your small donation of Rs 101/- for Satkarta Projects.",
+				"urlToImage": "/static/img/satkarta53.webp",
+				"content": "",
+				"url": "https://satkarta.blogspot.com/2022/06/satkarta-donation-project-53-education.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-23T05:00:00",
+				"unPublishDate": "2022-05-27T05:00:00",
+				"cardType": "normalCard",
+				"title": "Satkarta Donation Project 52 [ Completed ]",
+				"description": "Thanks to all donors of Project - 52, with 91 donors we got around 25000/- and donated to needy for the payment of hospital bills and other medical expense requirements. The needy Madhwa family members have done really great working during covid-19 lockdown, so through Satkarta God has provided them this help. All Satkarta Seva Association members wished the family to achieve more Madhwa Sadhana. Our small donations should help their family to achieve extra mile in Madhwa sadhana. Also we request Madhwas to come forward and do your small donation of Rs 101/- for Satkarta Projects.",
+				"urlToImage": "/static/img/satkarta52.webp",
+				"content": "",
+				"url": "https://satkarta.blogspot.com/2022/05/satkarta-donation-project-52-medical.html"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-25T05:00:00",
+				"unPublishDate": "2022-05-30T05:00:00",
+				"cardType": "normalCard",
+				"title": "Atmashrama gearing up for 1st Sudha Mangala in the year 2023",
+				"description": "Atmashrama over the years has been doing yeomen service to our community by conducting various online/offline courses and Jnana Karyas. They have launched many courses for learning Veda, Spoken Sanskrit, Grammar and Sudhanta Vedanta. Around 400 students are currently enrolled and immensely benefitting from our courses. Atmashrama runs from donations, so its important for society to support such schools thank other spendings from future perspectives.",
+				"urlToImage": "https://media-exp1.licdn.com/dms/image/C4D22AQEk6kcpOXC3nw/feedshare-shrink_800/0/1653529728699?e=1656547200&v=beta&t=s4FL-a7pPwuB1SHqMVNv0OrcqzFmVAmM4hZZ5-U5xBU",
+				"content": "",
+				"url": "https://atmashrama.org/"
 			},
 			{
 				"source": {
 					"id": "Satkarta",
 					"name": "Satkarta"
 				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-27T05:00:00",
+				"unPublishDate": "2022-12-30T05:00:00",
 				"cardType": "normalCard",
-				"title": "Skill yourself to get a job",
-				"description": "While many young talent not getting job in community, there are large number of requirements open at big organizations where they are not getting right candidates. The gap is due to skills missing in candidates to perform basic job in a company vs. their school projects. Get trained rightly to get better jobs.",
-				"urlToImage": "/static/img/jobs.jpg",
-				"content": "Reach me for guidance madhavabk@gmail.com",
-				"url": "https://www.uttaradimath.org/pramodatma-go-shala"
+				"title": "Our tie up is with Satkarta Seva Association for crowd funding",
+				"description": "Satkarta(since 2015) is a section 8 company, under companies act of India. This has more transperant process in fund collection from donors and donating it to the needy Madhwa. The established process for verification, updates, audit and also management of funds helps donors satisfaction for their donation. Satkarta encourage people to donate in small but in large number of people so that it will help needy to get help but not become burden on donors.",
+				"urlToImage": "/static/img/satkarta.webp",
+				"content": "",
+				"url": "https://satkarta.blogspot.com"
 			},
 			{
 				"source": {
-					"id": "Satkarta",
+					"id": "Yatra",
 					"name": "Satkarta"
 				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T06:09:00Z",
+				"author": "Madhavarao",
+				"publishedAt": "2022-04-27T05:00:00",
+				"unPublishDate": "2022-05-30T05:00:00",
 				"cardType": "normalCard",
-				"title": "Rajajinagar see a new Gurukula to give kids basics for free",
-				"description": "Pt. Vadirajachar Deshpande, who graduated from Sri Vedesh Teerth - Sri Madhav teerth Vidyapeeth, Mannur started a small initiative named as Rajajinagar Gurukula to train kids on basics of Madhwa Sampradaya for kids. This has seen almost 25 kids now getting basic mantra, slokas and shistachar trainings. During pandemic situation group used online meeting facilities to run the weekly classes. This is done for FREE and interested parents can talk to Pt. Vadirajachar to join their kids to this.",
-				"content": "Cont Pt.Vadirajachar at 9902155407",
-				"urlToImage": "/static/img/gurukula.jpg",
-				"url": "https://satkarta.blogspot.com/2019/12/satkarta-gurukula-at-rajajinagar-free.html"
+				"title": "Satkarta Education donation project[completed]",
+				"description": "Thanks to all donors with 51 donors we got around 35000/- and donated to needy for the admission of his younder son, Chi Samrudh. Parents are really happy for Madhwa community standing with them during difficult situations. The son is going to get admission to AIRD education school in Bangalore(being near to home as small kid). This should help their family to achieve extra mile in Madhwa sadhana, help kid to not just get laukik education but also Madhwa tatwa...",
+				"urlToImage": "/static/img/satkarta50.webp",
+				"content": "",
+				"url": "https://satkarta.blogspot.com/2022/04/satkarta-donation-project-50-education.html"
 			},
 			{
 				"source": {
-					"id": "U-MUTT",
-					"name": "Uttaradimutt"
-				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"cardType": "normalCard",
-				"title": "Grand Tulasi Vana of Volunteers at Magadi Road",
-				"description": "There is grand Tulasi vana purely run by volunteers and serves tulasi to manay occasions. This vana is brain child of one of the volunteers Sri Sudheendra Katte and supported by many volunteers. Every weekend there are volunteer efforts to pluck tulasi dala and also clean the field, remove weeds and remove seeds etc. Each volunteer feels great service here. Such work need to be well supported by the society more and more.",
-				"urlToImage": "/static/img/tulasivana.jpeg",
-				"url": "https://www.uttaradimath.org/"
-			},
-			{
-				"source": {
-					"id": "Satkarta",
+					"id": "Sarvadarshi",
 					"name": "Satkarta"
 				},
-				"author": "Madhavarao Kulkarni",
-				"publishedAt": "2021-08-30T05:00:00Z",
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-16T05:00:00",
+				"unPublishDate": "2022-05-18T05:00:00",
 				"cardType": "normalCard",
-				"title": "Get your softskill improved - says Neeraj",
-				"description": "For our continued success and progressive growth many skills needed, at most important one is your soft skills, this is where leaders get differentiated from ordinary people in society. Remember one who goes just small extramile is called winner while whole world forgets second, third place person in race - says Mr. Neeraj",
-				"urlToImage": "/static/img/neeraj.jpg",
-				"content": "Reach out Mr. Neeraj Kumar",
-				"url": "https://www.youtube.com/channel/UCSYRiYDTpybb1NXEQsh2Y9w"
+				"title": "Satkarta Medical donation project 51[completed]",
+				"description": "Thanks to all donors with 31 donors we got around 25000/- and donated to needy for the payment of hospital bills and other medical emergency requirements. The needy Madhwa attained Hari Pada on 17th May 2022. All Satkarta Seva Association members prayed for Sadgathi of the soul and also prayed for getting next Madhwa Janma with much Sadhana abilities. Our small donations should help their family to achieve extra mile in Madhwa sadhana. Also we request Madhwas to come forward and do your small donation of Rs 101/- for Satkarta Projects.",
+				"urlToImage": "/static/img/satkarta51.webp",
+				"content": "",
+				"url": "https://satkarta.blogspot.com/2022/05/satkarta-donation-project-51-medical.html"
+			}
+		]
+	},
+	"education": {
+		"status": "ok",
+		"totalResults": 12,
+		"articles": [{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-06-01T05:00:00",
+				"unPublishDate": "2022-06-30T05:00:00",
+				"cardType": "adsCard",
+				"title": "Atmashrama gearing up for 1st Sudha Mangala in the year 2023",
+				"description": "Atmashrama over the years has been doing yeomen service to our community by conducting various online/offline courses and Jnana Karyas. They have launched many courses for learning Veda, Spoken Sanskrit, Grammar and Sudhanta Vedanta. Around 400 students are currently enrolled and immensely benefitting from our courses. Atmashrama runs from donations, so its important for society to support such schools thank other spendings from future perspectives.",
+				"urlToImage": "/static/img/June-2022.webp",
+				"content": "",
+				"url": "https://satkarta.blogspot.com"
 			},
 			{
-				"author": "Madhavarao Kulkarni",
-				"cardType": "normalCard",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"title": "Donate to Satkarta where transperancy matters",
-				"description": "Satkarta is the one unique program and leading program for crowd funding and giveback thoughts. Being in the field for 5 years now, Satkarta has completed as many as 21 projects to help Madhwas in Healthcare, educational, tough times, skill development and legal areas. Satkarta team is growing and its adding lots of volunteers day-by-day to fullfill need of large community.",
-				"urlToImage": "/static/img/9.jpg",
-				"url": "https://youtube.com/madhavabk"
+				"source": {
+					"id": "aaradhana",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-01T05:00:00",
+				"unPublishDate": "2022-05-31T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/sripadaraj.webp",
+				"content": "",
+				"url": "https://www.sripadarajamutt.org/sripadarajaru.html"
 			},
 			{
-				"author": "Madhavarao Kulkarni",
-				"cardType": "normalCard",
-				"publishedAt": "2021-08-30T05:00:00Z",
-				"title": "Expose your kids to rituals for their better future",
-				"description": "If we dont give opportunity to our kids to learn from work they either dont learn them or they are eager to learn elsewhere. Organizing events is one of the skills where many adults would love, if you have not given in future may in their school, offices they do it. But if you give them responsibility to organize, evolve think and make one festival at home fully!!! that makes them more learning and responsbile citizen at home itself...",
-				"urlToImage": "/static/img/17.jpg",
-				"url": "https://youtube.com/madhavabk"
+				"source": {
+					"id": "aaradhana",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-01T05:00:00",
+				"unPublishDate": "2022-05-31T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/satyabhinava.webp",
+				"content": "",
+				"url": "https://www.uttaradimath.org/parampara/sri-satyabhinava-tirtha"
+			},
+			{
+				"source": {
+					"id": "aaradhana",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-01T05:00:00",
+				"unPublishDate": "2022-05-31T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/kusumurty.webp",
+				"content": "",
+				"url": "https://www.sumadhwaseva.com/2009/06/krishna-dwaipayanaru/"
+			},
+			{
+				"source": {
+					"id": "aaradhana",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-01T05:00:00",
+				"unPublishDate": "2022-05-31T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/satyapoorna.webp",
+				"content": "",
+				"url": "https://www.uttaradimath.org/parampara/sri-satyapoorna-tirtha"
+			},
+			{
+				"source": {
+					"id": "aaradhana",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-01T05:00:00",
+				"unPublishDate": "2022-05-31T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/raghuvarya.webp",
+				"content": "",
+				"url": "https://www.uttaradimath.org/parampara/sri-raghuvarya-tirtha"
+			},
+			{
+				"source": {
+					"id": "aaradhana",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-01T05:00:00",
+				"unPublishDate": "2022-05-31T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/satyadheera.webp",
+				"content": "",
+				"url": "https://www.uttaradimath.org/parampara/sri-satyadheera-tirtha"
+			},
+			{
+				"source": {
+					"id": "aaradhana",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-01T05:00:00",
+				"unPublishDate": "2022-05-31T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/vidyapathi.webp",
+				"content": "",
+				"url": "https://www.sumadhwaseva.com/yatigalu/vyasaraja-mutt/vidyapathi-tirtharu/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-06-01T05:00:00",
+				"unPublishDate": "2022-06-02T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/satyasandha.webp",
+				"content": "",
+				"url": "https://www.uttaradimath.org/parampara/sri-satyasandha-tirtha"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-06-05T05:00:00",
+				"unPublishDate": "2022-06-06T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/mohanadas.webp",
+				"content": "",
+				"url": "https://www.sumadhwaseva.com/dasaru/mohana-dasaru/"
+			},
+			{
+				"source": {
+					"id": "Sarvadarshi",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-25T05:00:00",
+				"unPublishDate": "2022-05-30T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/brahmanya.webp",
+				"content": "",
+				"url": "http://madhwaprameyamahodadhi.blogspot.com/2018/05/shri-brahmanya-tirtha.html"
+			},
+			{
+				"source": {
+					"id": "Special Days",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2021-10-21T05:00:00",
+				"unPublishDate": "2022-01-07T05:00:00",
+				"cardType": "adsCard",
+				"title": "Ekadashi",
+				"description": "",
+				"urlToImage": "/static/img/10-6.webp",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com?solnmindset"
+			},
+			{
+				"source": {
+					"id": "aaradhana",
+					"name": "Sarvadarshi"
+				},
+				"author": "Madhavarao",
+				"publishedAt": "2022-05-01T05:00:00",
+				"unPublishDate": "2022-05-31T05:00:00",
+				"cardType": "adsCard",
+				"title": "",
+				"description": "",
+				"urlToImage": "/static/img/May2022.webp",
+				"content": "",
+				"url": "https://sarvadarshitarang.blogspot.com?76i"
 			}
 		]
 	}
